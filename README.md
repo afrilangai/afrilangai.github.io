@@ -1,2 +1,1 @@
-# afrilangai.github.io
-Africa Language AI technology conference
+AI in African language conference site
