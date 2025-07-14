@@ -1,6 +1,6 @@
 ---
 layout: default
-last_modified_date: July 7, 2025
+last_modified_date: July 15, 2025
 ---
 
 # AI for African languages conference 2025
