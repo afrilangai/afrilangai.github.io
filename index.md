@@ -23,7 +23,7 @@ This workshop is meant to be inter-disciplinary, merging industry and research. 
 1.  **Research Track:** 2-4 page papers that are a theoretical, methodological, technical, exploratory, or empirical exploration of the themes of this workshop. These will be presented as short lightning talks during the paper panels in the workshop. You will have a chance to get feedback on these papers through post-panel discussion and Q\&A.
 2.  **Industry Track:** 1-2 page papers describing deployed solutions of NLP, case studies of successful implementations, or challenges and lessons learned from developing and deploying language technologies for African languages in industry settings.
 
-Submissions should follow this [LaTeX style guide](https://www.google.com/search?q=https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-2024-proceedings-template/gvcqczbwggtx).
+Submissions should follow this [LaTeX style guide](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).
 
 **You can submit for both tracks using [OpenReview](https://openreview.net/group?id=ICLR.cc/2025/Workshop/ug_lang_conf) by August 15, 2025 AoE.**
 
