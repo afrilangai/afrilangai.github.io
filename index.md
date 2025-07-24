@@ -25,7 +25,14 @@ This workshop is meant to be inter-disciplinary, merging industry and research. 
 
 Submissions should follow this [LaTeX style guide](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).
 
-**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=AfriLang_AI/2025/Conference) by August 15, 2025 AoE.**
+**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=AfriLang_AI/2025/Conference) by August 15, 2025 AoE.** 
+> **Note:**  
+> According to OpenReview's moderation policy for newly created profiles in the Call for Papers:
+>
+> - New profiles **without an institutional email** will go through a moderation process that can take up to **two weeks**.
+> - New profiles **with an institutional email** will be **activated automatically**.
+>
+> Please keep this in mind when creating your OpenReview profile for submissions.
 
 ## Timelines:
 
