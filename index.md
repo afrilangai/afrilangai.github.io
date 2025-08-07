@@ -82,3 +82,46 @@ Accepted submissions will be published online in [CEUR proceedings](https://ceur
   </div>
 </div>
 
+### Co-Chairs
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
+  <img src="assets/images/rk.jpg" alt="Dr. Richard Kimera" style="width: 150px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+  <div>
+    <strong>Dr. Richard Kimera</strong><br/>
+    Lecturer, Department of Information Technology, Mbarara University of Science and Technology (MUST)<br/><br/>
+    Dr. Richard Kimera is a Lecturer at Mbarara University of Science and Technology. He holds a PhD in Engineering (ICT Convergence) from Handong Global University in South Korea. His research focuses on Natural Language Processing (NLP), Deep Learning, and Neural Machine Translation, particularly for low-resource languages such as Luganda. He developed a parallel English–Luganda corpus that enabled the first publicly available neural machine translation model for this language pair. Dr. Kimera is also affiliated with Handong Global University and actively contributes to international AI research collaborations.
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
+  <img src="assets/images/jnn.jpeg" alt="Dr. Joyce Nakatumba-Nabende" style="width: 150px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+  <div>
+    <strong>Dr. Joyce Nakatumba-Nabende</strong><br/>
+    Senior Lecturer, Department of Computer Science, Makerere University<br/><br/>
+    Dr. Joyce Nakatumba-Nabende is a Senior Lecturer in the Department of Computer Science and Head of the AI Lab at Makerere University. Her research interests and experience include Artificial Intelligence, Machine Learning, Natural Language Processing, and Responsible AI and their applications in health and agriculture. She is also a key contributor to regional AI capacity building initiatives and interdisciplinary AI research in East Africa. She holds a PhD in Computer Science from Eindhoven University of Technology (The Netherlands).
+  </div>
+</div>
+
+### Program Committee Chairs
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
+  <img src="assets/images/ak.jpeg" alt="Dr. Andrew Katumba" style="width: 150px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+  <div>
+    <strong>Dr. Andrew Katumba</strong><br/>
+    Lecturer, Department of Electrical and Computer Engineering, Makerere University<br/><br/>
+    Dr. Andrew Katumba holds a PhD in Photonics Engineering from Ghent University, Belgium and an MSc in Optics and Photonics from Karlsruhe Institute of Technology (Germany). He leads the Marconi Research and Innovation Lab at Makerere University and conducts research applying AI to healthcare in low-resource environments, including cancer screening using medical imaging technologies like ultrasound and MRI. He also champions the digitization of healthcare workflows and plays a leading role in Uganda’s national cancer Health Information Exchange initiative.
+  </div>
+</div>
+
+### Program Committee & Publications Chair
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
+  <img src="assets/images/eb.jpeg" alt="Prof. Engineer Bainomugisha" style="width: 150px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+  <div>
+    <strong>Prof. Engineer Bainomugisha</strong><br/>
+    Professor & Chair, Department of Computer Science, Makerere University<br/><br/>
+    Prof. Engineer Bainomugisha is a Professor and the Chair of Computer Science at Makerere University, Uganda. His research interests span programming language engineering, distributed and cloud systems, low-cost sensor technologies and applications of AI for social impact. His pioneering work includes AirQo, Africa's largest air quality monitoring and modelling system. He serves as a founding board member of Sunbird AI, championing AI for public good. He holds a PhD in Computer Science from Vrije Universiteit Brussel, Belgium.
+  </div>
+</div>
+
+
