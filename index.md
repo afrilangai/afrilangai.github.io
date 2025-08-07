@@ -66,6 +66,19 @@ Papers will be reviewed by workshop organizers and selected for:
   - Relevance to low-resource African language technology
   - Potential for impact and community building
 
-## Presentation Format:
+## Publication and Presentation Format:
 
 Accepted submissions will be published online in [CEUR proceedings](https://ceur-ws.org/) and will also be shared on the workshop website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q&A and discussion sessions.
+## Organizing Committee
+
+### General Chair
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
+  <img src="assets/images/em.jpg" alt="Dr. Ernest Mwebaze" style="width: 150px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+  <div>
+    <strong>Dr. Ernest Mwebaze</strong><br/>
+    Executive Director, Sunbird AI<br/><br/>
+    Dr. Ernest Mwebaze is the Executive Director of Sunbird AI, a non-profit AI that develops practical AI research and products for social impact with a focus on Africa. He has over a decade of experience teaching and researching at Makerere University, where he co-founded its Artificial Intelligence Lab. He has worked as a research scientist at Google AI in Ghana and at the UN Pulse Lab in Kampala, applying AI to tackle development challenges in agriculture, utilities, the SDGs, and African language technologies. He holds a PhD in Machine Learning from the University of Groningen, The Netherlands.
+  </div>
+</div>
+
