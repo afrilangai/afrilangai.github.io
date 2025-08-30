@@ -25,7 +25,7 @@ This workshop is meant to be inter-disciplinary, merging industry and research. 
 
 Submissions should follow this [LaTeX style guide](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).
 
-**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=AfriLang_AI/2025/Conference) by August 31, 2025 AoE.** 
+**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=AfriLang_AI/2025/Conference) by September 3rd, 2025 AoE.** 
 > **Note:**  
 > According to OpenReview's moderation policy for newly created profiles in the Call for Papers:
 >
@@ -36,9 +36,9 @@ Submissions should follow this [LaTeX style guide](https://www.overleaf.com/late
 
 ## Timelines:
 
-Extended Deadline for submissions: August 31st, 2025 AoE
+Extended Deadline for submissions: September 3rd, 2025 AoE
 
-Acceptance notification: September 10, 2025
+Acceptance notification: September 14th, 2025
 
 Workshop date: October 10, 2025
 
@@ -106,16 +106,14 @@ Accepted submissions will be published online in [CEUR proceedings](https://ceur
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
   <img src="assets/images/ak.jpeg" alt="Dr. Andrew Katumba" style="width: 150px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
-  <div>
     <strong>Dr. Andrew Katumba</strong><br/>
-    Lecturer, Department of Electrical and Computer Engineering, Makerere University<br/><br/>
-    Dr. Andrew Katumba holds a PhD in Photonics Engineering from Ghent University, Belgium and an MSc in Optics and Photonics from Karlsruhe Institute of Technology (Germany). He leads the Marconi Research and Innovation Lab at Makerere University and conducts research applying AI to healthcare in low-resource environments, including cancer screening using medical imaging technologies like ultrasound and MRI. He also champions the digitization of healthcare workflows and plays a leading role in Uganda’s national cancer Health Information Exchange initiative.
-  </div>
+Lecturer, Department of Electrical and Computer Engineering, Makerere University<br/><br/>
+Dr. Andrew Katumba holds a PhD in Photonics Engineering from Ghent University, Belgium and an MSc in Optics and Photonics from Karlsruhe Institute of Technology (Germany). He leads the Marconi Research and Innovation Lab at Makerere University and conducts research applying AI to healthcare in low-resource environments, including cancer screening using medical imaging technologies like ultrasound and MRI. He also champions the digitization of healthcare workflows and plays a leading role in Uganda’s national cancer Health Information Exchange initiative.
 </div>
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
 <img src="assets/images/johnqunin.jpg" alt="John Quinn" style="width: 150px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
 <div>
-<strong>John Quinn</strong><br/>
+<strong>Dr. John Quinn</strong><br/>
 Director, Sunbird AI
 </div>
 </div>
