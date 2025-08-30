@@ -105,12 +105,19 @@ Accepted submissions will be published online in [CEUR proceedings](https://ceur
 ### Program Committee Chairs
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
-  <img src="assets/images/ak.jpeg" alt="Dr. Andrew Katumba" style="width: 150px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
-  <div>
-    <strong>Dr. Andrew Katumba</strong><br/>
-    Lecturer, Department of Electrical and Computer Engineering, Makerere University<br/><br/>
-    Dr. Andrew Katumba holds a PhD in Photonics Engineering from Ghent University, Belgium and an MSc in Optics and Photonics from Karlsruhe Institute of Technology (Germany). He leads the Marconi Research and Innovation Lab at Makerere University and conducts research applying AI to healthcare in low-resource environments, including cancer screening using medical imaging technologies like ultrasound and MRI. He also champions the digitization of healthcare workflows and plays a leading role in Uganda’s national cancer Health Information Exchange initiative.
-  </div>
+  <img src="assets/images/ak.jpeg" alt="Dr. Andrew Katumba" style="width: 150px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+  <div>
+    <strong>Dr. Andrew Katumba</strong><br/>
+    Lecturer, Department of Electrical and Computer Engineering, Makerere University<br/><br/>
+    Dr. Andrew Katumba holds a PhD in Photonics Engineering from Ghent University, Belgium and an MSc in Optics and Photonics from Karlsruhe Institute of Technology (Germany). He leads the Marconi Research and Innovation Lab at Makerere University and conducts research applying AI to healthcare in low-resource environments, including cancer screening using medical imaging technologies like ultrasound and MRI. He also champions the digitization of healthcare workflows and plays a leading role in Uganda’s national cancer Health Information Exchange initiative.
+  </div>
+</div>
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
+<img src="assets/images/johnqunin.jpg" alt="John Quinn" style="width: 150px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+<div>
+<strong>John Quinn</strong><br/>
+Director, Sunbird AI
+</div>
 </div>
 
 ### Program Committee & Publications Chair
