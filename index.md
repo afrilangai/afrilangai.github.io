@@ -149,8 +149,6 @@ Accepted submissions will be published online in [CEUR proceedings](https://ceur
   </div>
 </div>
 
-</div>
-
 ### Program Committee & Publications Chair
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
