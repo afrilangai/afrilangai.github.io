@@ -146,6 +146,8 @@ Accepted submissions will be published online in [CEUR proceedings](https://ceur
   <div>
     <strong>Dr. John Quinn</strong>
     Director, Sunbird AI
+    <br /><br />
+    John Quinn is the Director of Research at Sunbird AI in Uganda. He has previously been a Staff Research Software Engineer at Google, where he started the Open Buildings project to map three continents using satellite imagery and computer vision, was technical lead for Africa projects at United Nations Global Pulse, and Senior Lecturer in Computer Science at Makerere University in Uganda. He has worked on a number of large scale AI projects across the African continent, in the fields of remote sensing, speech and language, agriculture and health. He holds a BA in computer science from the University of Cambridge (2000), and a PhD in machine learning from the University of Edinburgh (2007).
   </div>
 </div>
 
