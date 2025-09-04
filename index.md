@@ -42,6 +42,13 @@ Acceptance notification: September 14th, 2025
 
 Workshop date: October 10, 2025
 
+## Venue:
+
+**Four Points by Sheraton, Kampala, Uganda**  
+Plot No. 1 Elgon Terrace Kampala, 117516.
+
+[View on Google Maps](https://maps.app.goo.gl/CG2nhqYJWzxRwaib6)
+
 ## Workshop scope and topics:
 
 Themes for submissions can include but are not limited to:
