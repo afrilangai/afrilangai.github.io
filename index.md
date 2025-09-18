@@ -158,6 +158,18 @@ Accepted submissions will be published online in [CEUR proceedings](https://ceur
   </div>
 </div>
 
+### Program Committee & Publications Chair
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
+  <img src="assets/images/eb.jpeg" alt="Prof. Engineer Bainomugisha" style="width: 150px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
+  <div>
+    <strong>Prof. Engineer Bainomugisha</strong><br/>
+    Professor & Chair, Department of Computer Science, Makerere University<br/><br/>
+    Prof. Engineer Bainomugisha is a Professor and the Chair of Computer Science at Makerere University, Uganda. His research interests span programming language engineering, distributed and cloud systems, low-cost sensor technologies and applications of AI for social impact. His pioneering work includes AirQo, Africa's largest air quality monitoring and modelling system. He serves as a founding board member of Sunbird AI, championing AI for public good. He holds a PhD in Computer Science from Vrije Universiteit Brussel, Belgium.
+  </div>
+</div>
+
+### Program Committee
 <!-- Additional Program Committee Members -->
 <style>
 .committee {
@@ -223,17 +235,5 @@ Accepted submissions will be published online in [CEUR proceedings](https://ceur
 
   <div class="committee-member">
     <strong>Lilian D. Awuor Wanzare</strong>, Maseno University, Kenya
-  </div>
-</div>
-
-
-### Program Committee & Publications Chair
-
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
-  <img src="assets/images/eb.jpeg" alt="Prof. Engineer Bainomugisha" style="width: 150px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
-  <div>
-    <strong>Prof. Engineer Bainomugisha</strong><br/>
-    Professor & Chair, Department of Computer Science, Makerere University<br/><br/>
-    Prof. Engineer Bainomugisha is a Professor and the Chair of Computer Science at Makerere University, Uganda. His research interests span programming language engineering, distributed and cloud systems, low-cost sensor technologies and applications of AI for social impact. His pioneering work includes AirQo, Africa's largest air quality monitoring and modelling system. He serves as a founding board member of Sunbird AI, championing AI for public good. He holds a PhD in Computer Science from Vrije Universiteit Brussel, Belgium.
   </div>
 </div>
