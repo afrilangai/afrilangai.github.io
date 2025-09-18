@@ -158,6 +158,91 @@ Accepted submissions will be published online in [CEUR proceedings](https://ceur
   </div>
 </div>
 
+<!-- Additional Program Committee Members -->
+<div class="profile">
+  <div>
+    <strong>Happy Buzaaba</strong><br />
+    Princeton University, USA
+  </div>
+</div>
+
+<div class="profile">
+  <div>
+    <strong>Peter Nabende</strong><br />
+    Makerere University, Uganda
+  </div>
+</div>
+
+<div class="profile">
+  <div>
+    <strong>Dina Machuve</strong><br />
+    DevData Analytics, Tanzania
+  </div>
+</div>
+
+<div class="profile">
+  <div>
+    <strong>Zewdie Mossie Erukneh</strong><br />
+    Debre Markos University, Ethiopia
+  </div>
+</div>
+
+<div class="profile">
+  <div>
+    <strong>David SABIITI Bamutura</strong><br />
+    Mbarara University of Science and Technology, Uganda
+  </div>
+</div>
+
+<div class="profile">
+  <div>
+    <strong>Engineer Bainomugisha</strong><br />
+    Makerere University, Uganda
+  </div>
+</div>
+
+<div class="profile">
+  <div>
+    <strong>Ernest Mwebaze</strong><br />
+    Sunbird AI, Uganda
+  </div>
+</div>
+
+<div class="profile">
+  <div>
+    <strong>Joyce Nakatumba Nabende</strong><br />
+    Makerere University, Uganda
+  </div>
+</div>
+
+<div class="profile">
+  <div>
+    <strong>Andrew Katumba</strong><br />
+    Makerere University, Uganda
+  </div>
+</div>
+
+<div class="profile">
+  <div>
+    <strong>Richard Kimera</strong><br />
+    Mbarara University of Science and Technology, Uganda
+  </div>
+</div>
+
+<div class="profile">
+  <div>
+    <strong>John Quinn</strong><br />
+    Sunbird AI, Uganda
+  </div>
+</div>
+
+<div class="profile">
+  <div>
+    <strong>Lilian D. Awuor Wanzare</strong><br />
+    Maseno University, Kenya
+  </div>
+</div>
+
 ### Program Committee & Publications Chair
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
