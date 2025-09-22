@@ -38,7 +38,7 @@ Submissions should follow this [LaTeX style guide](https://www.overleaf.com/late
 
 Extended Deadline for submissions: September 3rd, 2025 AoE
 
-Acceptance notification: September 14th, 2025
+Acceptance notification: September 29th, 2025
 
 Workshop date: October 10, 2025
 
