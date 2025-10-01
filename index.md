@@ -237,3 +237,16 @@ Accepted submissions will be published online in [CEUR proceedings](https://ceur
     <strong>Lilian D. Awuor Wanzare</strong>, Maseno University, Kenya
   </div>
 </div>
+
+## AfriLang AI 2025 Accepted Papers
+
+| Number | Title | Decision |
+|--------|-------|----------|
+| **1** | Sauti Halisi: Towards Direct Speech-to-Text Translation for Colloquial and Code-Switched Swahili | Accept (Oral) |
+| **3** | Promoting Uganda’s major local languages: Introducing Luganda Text generation models and diverse accent-aware TTS models | Accept (Oral) |
+| **5** | End-to-End Continuous Ethiopia Sign Language Recognition | Accept (Oral) |
+| **6** | Tonative: Community-Driven Extension of African Datasets Through Human-AI Collaboration | Accept (Oral) |
+| **8** | Bridging the Language Gap: Fine-Tuning Llama for Machine Translation in Low-Resource African Languages | Accept (Oral) |
+| **9** | KALAM-NA: Multi-Dialectal Corpus for 16 variants of the Sara linguistic family of Chad | Accept (Oral) |
+| **11** | How much speech data is necessary for ASR in African languages? An evaluation of data scaling in Kinyarwanda and Kikuyu | Accept (Oral) |
+| **12** | Robust Tokenization for Low-Resource Oromo Medical Texts via Novel Lightweight Augmentation | Accept (Oral) |
