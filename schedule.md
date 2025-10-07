@@ -18,7 +18,7 @@ Friday, October 10, 2025
 | 10:00 \- 10: 30 | **Group Photo */*  Tea & Coffee Break** |
 | 10:30 \- 10:50 | **Invited Talk: Language Preservation in the AI age** <br>Ms. Babra Babweteera <br>*Executive Director of the Cross-Cultural Foundation of Uganda.*  | 
 | 10:50 \- 11:00 | **Opening of AfriLang conference.**   <br>Dr. Joyce Nabende <br>*Head of Makerere University Center for AI.*  |
-| 11:00 \- 11:30 | **Invited Talk: African NLP Strategy** <br>Prof. Vukozi Marivarate <br>*Co-Founder of Masakhane NLP, Deep Learning Indaba, Lelapa*  |
+| 11:00 \- 11:30 | **Invited Talk: African NLP Strategy** <br>Prof. Vukosi Marivate <br>*Co-Founder of Masakhane NLP, Deep Learning Indaba, Lelapa*  |
 | 11:30 \- 13:00 | **Paper presentations:** 10 minutes presentation, 5 minutes plenary |
 | |1. [Promoting Uganda’s major local languages: Introducing Luganda Text generation models and diverse accent-aware TTS models](https://openreview.net/forum?id=X5W4iEdnLk) _Rashid Kisejjere, Reuben Magala, Abubakhari Sserwadda_<br>2. [Tonative: Community-Driven Extension of African Datasets Through Human-AI Collaboration](https://openreview.net/forum?id=BEddoSwcEi) _Cynthia Jayne Amol, Sharon Ibejih_  <br>3. [Bridging the Language Gap: Fine-Tuning LLama for Machine Translation in Low-Resource African Languages](https://openreview.net/forum?id=IVpC4xW0tV) _Mary Wambui Kariuki, Joseph Muguro, Ciira wa Maina, Lilian Diana Awuor Wanzare_<br>4. [Sauti Halisi: Towards Direct Speech-to-Text Translation for Colloquial and Code-Switched Swahili](https://openreview.net/forum?id=56Htag39aE) _Brian Gillo_ |
 | 13:00 \- 14:00 | **Lunch Break**  |
