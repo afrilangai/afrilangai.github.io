@@ -65,7 +65,7 @@ Themes for submissions can include but are not limited to:
 
 ## Reviewing:
 
-Papers will be reviewed by workshop organizers and selected for:
+Papers will be peer reviewed by at least 3 Programme Committee members and selected for:
 
   - Disciplinary depth
   - Novelty of perspectives
@@ -75,7 +75,7 @@ Papers will be reviewed by workshop organizers and selected for:
 
 ## Publication and Presentation Format:
 
-Accepted submissions will be published online in [CEUR proceedings](https://ceur-ws.org/) and will also be shared on the workshop website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q&A and discussion sessions.
+Accepted submissions will be published online in [CEUR proceedings](https://ceur-ws.org/) and will also be shared on the workshop website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q&A and discussion sessions. Accepted papers will be asked to be revised to atleast 5 pages.
 ## Organizing Committee
 
 ### General Chair
