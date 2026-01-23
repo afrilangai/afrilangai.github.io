@@ -75,7 +75,7 @@ Papers will be peer reviewed by at least 3 Programme Committee members and selec
 
 ## Publication and Presentation Format:
 
-Accepted submissions will be published online in [CEUR proceedings](https://ceur-ws.org/) and will also be shared on the workshop website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q&A and discussion sessions. Accepted papers will be asked to be revised to atleast 5 pages.
+Accepted submissions will be published online in [PMLR](https://proceedings.mlr.press/) and will also be shared on the workshop website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q&A and discussion sessions. Accepted papers will be asked to be revised to atleast 5 pages for publication.
 ## Organizing Committee
 
 ### General Chair
