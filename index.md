@@ -77,7 +77,7 @@ Papers will be peer reviewed by at least 3 Programme Committee members and selec
 <!-- 
 Accepted submissions will be published online in [PMLR](https://proceedings.mlr.press/) and will also be shared on the workshop website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q&A and discussion sessions. Accepted papers will be asked to be revised to atleast 5 pages for publication.
  -->
-Accepted submissions have been published online in **[PMLR (Vol. 314)](https://proceedings.mlr.press/v314/)** and are also available on the workshop website.
+Accepted submissions have been published online in **[Proceedings of Machine Learning Research (Vol. 314)](https://proceedings.mlr.press/v314/)**.
 ## Organizing Committee
 
 ### General Chair
