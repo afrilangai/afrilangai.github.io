@@ -1,9 +1,9 @@
 ---
 layout: default
-last_modified_date: October 3, 2025
+last_modified_date: July 2, 2026
 ---
 
-# AI for African languages conference 2025
+# AI for African languages conference 2026
 {: .fs-9 }
 
 Unlock the power of East African languages: Innovate, connect, and build inclusive language technology for tomorrow.
@@ -25,7 +25,7 @@ This workshop is meant to be inter-disciplinary, merging industry and research. 
 
 Submissions should follow this [LaTeX style guide](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).
 
-**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=AfriLang_AI/2025/Conference) by September 3rd, 2025 AoE.** 
+**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=AfriLang_AI/2026/Conference) by July 31st, 2026 AoE.** 
 > **Note:**  
 > According to OpenReview's moderation policy for newly created profiles in the Call for Papers:
 >
@@ -36,18 +36,18 @@ Submissions should follow this [LaTeX style guide](https://www.overleaf.com/late
 
 ## Timelines:
 
-Extended Deadline for submissions: September 3rd, 2025 AoE
+Deadline for submissions: July 31st, 2026 AoE
 
-Acceptance notification: September 29th, 2025
+Acceptance notification: September 29th, 2026
 
-Workshop date: October 10, 2025
+Workshop date: October 15, 2026
 
 ## Venue:
 
-**Four Points by Sheraton, Kampala, Uganda**  
-Plot No. 1 Elgon Terrace Kampala, 117516.
+**Makerere University School of Public Health Auditorium, Eastern Gate**  
+8HPC+5X Kampala, Uganda.
 
-[View on Google Maps](https://maps.app.goo.gl/CG2nhqYJWzxRwaib6)
+[View on Google Maps]([https://maps.app.goo.gl/CG2nhqYJWzxRwaib6](https://maps.app.goo.gl/bAjLooqCv8GXuDJL8))
 
 ## Workshop scope and topics:
 
@@ -93,23 +93,23 @@ Accepted submissions have been published online in **[Proceedings of Machine Lea
 
 ### Co-Chairs
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
+<!-- <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
   <img src="assets/images/rk.jpg" alt="Dr. Richard Kimera" style="width: 150px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
   <div>
     <strong>Dr. Richard Kimera</strong><br/>
     Lecturer, Department of Information Technology, Mbarara University of Science and Technology (MUST)<br/><br/>
     Dr. Richard Kimera is a Lecturer at Mbarara University of Science and Technology. He holds a PhD in Engineering (ICT Convergence) from Handong Global University in South Korea. His research focuses on Natural Language Processing (NLP), Deep Learning, and Neural Machine Translation, particularly for low-resource languages such as Luganda. He developed a parallel English–Luganda corpus that enabled the first publicly available neural machine translation model for this language pair. Dr. Kimera is also affiliated with Handong Global University and actively contributes to international AI research collaborations.
   </div>
-</div>
+</div> -->
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
+<!-- <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
   <img src="assets/images/jnn.jpeg" alt="Dr. Joyce Nakatumba-Nabende" style="width: 150px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);" />
   <div>
     <strong>Dr. Joyce Nakatumba-Nabende</strong><br/>
     Senior Lecturer, Department of Computer Science, Makerere University<br/><br/>
     Dr. Joyce Nakatumba-Nabende is a Senior Lecturer in the Department of Computer Science and Head of the AI Lab at Makerere University. Her research interests and experience include Artificial Intelligence, Machine Learning, Natural Language Processing, and Responsible AI and their applications in health and agriculture. She is also a key contributor to regional AI capacity building initiatives and interdisciplinary AI research in East Africa. She holds a PhD in Computer Science from Eindhoven University of Technology (The Netherlands).
   </div>
-</div>
+</div> -->
 
 ### Program Committee Chairs
 
@@ -140,7 +140,7 @@ Accepted submissions have been published online in **[Proceedings of Machine Lea
   }
 </style>
 
-<div class="profile">
+<!-- <div class="profile">
   <img src="assets/images/ak.jpeg" alt="Dr. Andrew Katumba" />
   <div>
     <strong>Dr. Andrew Katumba</strong>
@@ -148,7 +148,7 @@ Accepted submissions have been published online in **[Proceedings of Machine Lea
     <br /><br />
     Dr. Andrew Katumba holds a PhD in Photonics Engineering from Ghent University, Belgium and an MSc in Optics and Photonics from Karlsruhe Institute of Technology (Germany). He leads the Marconi Research and Innovation Lab at Makerere University and conducts research applying AI to healthcare in low-resource environments, including cancer screening using medical imaging technologies like ultrasound and MRI. He also champions the digitization of healthcare workflows and plays a leading role in Uganda’s national cancer Health Information Exchange initiative.
   </div>
-</div>
+</div> -->
 
 <div class="profile">
   <img src="assets/images/johnqunin.jpg" alt="Dr. John Quinn" />
@@ -240,21 +240,4 @@ Accepted submissions have been published online in **[Proceedings of Machine Lea
   </div>
 </div>
 
-## AfriLang AI 2025 Accepted Papers
-
-* [Sauti Halisi: Towards Direct Speech-to-Text Translation for Colloquial and Code-Switched Swahili](https://openreview.net/forum?id=56Htag39aE)
-_Brian Gillo_
-* [Promoting Uganda’s major local languages: Introducing Luganda Text generation models and diverse accent-aware TTS models](https://openreview.net/forum?id=X5W4iEdnLk)
-_Rashid Kisejjere, Reuben Magala, Abubakhari Sserwadda_
-* [End-to-End Continuous Ethiopia Sign Language Recongnition](https://openreview.net/forum?id=QeJ1VNSwHQ)
-_Anteneh Yehalem Tegegne_
-* [Tonative: Community-Driven Extension of African Datasets Through Human-AI Collaboration](https://openreview.net/forum?id=BEddoSwcEi)
-_Cynthia Jayne Amol, Sharon Ibejih_
-* [Bridging the Language Gap: Fine-Tuning LLama for Machine Translation in Low-Resource African Languages](https://openreview.net/forum?id=IVpC4xW0tV)
-_Mary Wambui Kariuki, Joseph Muguro, Ciira wa Maina, Lilian Diana Awuor Wanzare_
-* [KALAM-NA: Multi-Dialectal Corpus for 16 variants of the Sara linguistic family of Chad](https://openreview.net/forum?id=haGLuSZQlS)
-_Abdel-aziz Harane Abounounou_
-* [How much speech data is necessary for ASR in African languages? An evaluation of data scaling in Kinyarwanda and Kikuyu](https://openreview.net/forum?id=9lNrLnnWGN)
-_Benjamin Akera, Evelyn Nafula, Patrick Walukagga, Gilbert Yiga, John Quinn, Ernest Tonny Mwebaze_
-* [Robust Tokenization for Low-Resource Oromo Medical Texts via Novel Lightweight Augmentation](https://openreview.net/forum?id=i1QAk9R82A)
-_Karthik Srikumar_
+## AfriLang AI 2026 Accepted Papers
