@@ -20,7 +20,7 @@ This workshop is meant to be inter-disciplinary, merging industry and research. 
 
 ## We invite two forms of submissions:
 
-1.  **Research Track:** 2-4 page papers that are a theoretical, methodological, technical, exploratory, or empirical exploration of the themes of this workshop. These will be presented as short lightning talks during the paper panels in the workshop. You will have a chance to get feedback on these papers through post-panel discussion and Q\&A.
+1.  **Research Track:** 2-4 page papers that are a theoretical, methodological, technical, exploratory, or empirical exploration of the themes of this workshop. These will be presented as short lightning talks during the paper panels in the workshop. You will have a chance to get feedback on these papers through post-panel discussion and Q&A.
 2.  **Industry Track:** 1-2 page papers describing deployed solutions of NLP, case studies of successful implementations, or challenges and lessons learned from developing and deploying language technologies for African languages in industry settings.
 
 Submissions should follow this [LaTeX style guide](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).
@@ -38,7 +38,7 @@ Submissions should follow this [LaTeX style guide](https://www.overleaf.com/late
 
 Deadline for submissions: July 31st, 2026 AoE
 
-Acceptance notification: September 29th, 2026
+Acceptance notification: August 31st, 2026
 
 Workshop date: October 15, 2026
 
@@ -47,7 +47,7 @@ Workshop date: October 15, 2026
 **Makerere University School of Public Health Auditorium, Eastern Gate**  
 8HPC+5X Kampala, Uganda.
 
-[View on Google Maps](https://maps.app.goo.gl/CG2nhqYJWzxRwaib6)
+[View on Google Maps](https://maps.app.goo.gl/vq1twHQBexhwjgAx8)
 
 ## Workshop scope and topics:
 
@@ -77,7 +77,7 @@ Papers will be peer reviewed by at least 3 Programme Committee members and selec
 <!-- 
 Accepted submissions will be published online in [PMLR](https://proceedings.mlr.press/) and will also be shared on the workshop website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q&A and discussion sessions. Accepted papers will be asked to be revised to atleast 5 pages for publication.
  -->
-Accepted submissions have been published online in **[Proceedings of Machine Learning Research (Vol. 314)](https://proceedings.mlr.press/v314/)**.
+Accepted submissions have been published online in **[Proceedings of Machine Learning Research](https://proceedings.mlr.press/)**.
 ## Organizing Committee
 
 ### General Chair
