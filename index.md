@@ -47,7 +47,7 @@ Workshop date: October 15, 2026
 **Makerere University School of Public Health Auditorium, Eastern Gate**  
 8HPC+5X Kampala, Uganda.
 
-[View on Google Maps]([https://maps.app.goo.gl/CG2nhqYJWzxRwaib6](https://maps.app.goo.gl/bAjLooqCv8GXuDJL8))
+[View on Google Maps](https://maps.app.goo.gl/CG2nhqYJWzxRwaib6)
 
 ## Workshop scope and topics:
 
@@ -192,26 +192,6 @@ Accepted submissions have been published online in **[Proceedings of Machine Lea
 <div class="committee">
 
   <div class="committee-member">
-    <strong>Happy Buzaaba</strong>, Princeton University, USA
-  </div>
-
-  <div class="committee-member">
-    <strong>Peter Nabende</strong>, Makerere University, Uganda
-  </div>
-
-  <div class="committee-member">
-    <strong>Dina Machuve</strong>, DevData Analytics, Tanzania
-  </div>
-
-  <div class="committee-member">
-    <strong>Zewdie Mossie Erukneh</strong>, Debre Markos University, Ethiopia
-  </div>
-
-  <div class="committee-member">
-    <strong>David SABIITI Bamutura</strong>, Mbarara University of Science and Technology, Uganda
-  </div>
-
-  <div class="committee-member">
     <strong>Engineer Bainomugisha</strong>, Makerere University, Uganda
   </div>
 
@@ -220,24 +200,7 @@ Accepted submissions have been published online in **[Proceedings of Machine Lea
   </div>
 
   <div class="committee-member">
-    <strong>Joyce Nakatumba Nabende</strong>, Makerere University, Uganda
-  </div>
-
-  <div class="committee-member">
-    <strong>Andrew Katumba</strong>, Makerere University, Uganda
-  </div>
-
-  <div class="committee-member">
-    <strong>Richard Kimera</strong>, Mbarara University of Science and Technology, Uganda
-  </div>
-
-  <div class="committee-member">
     <strong>John Quinn</strong>, Sunbird AI, Uganda
   </div>
 
-  <div class="committee-member">
-    <strong>Lilian D. Awuor Wanzare</strong>, Maseno University, Kenya
-  </div>
 </div>
-
-## AfriLang AI 2026 Accepted Papers
