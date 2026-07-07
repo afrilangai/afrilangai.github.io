@@ -1,6 +1,6 @@
 ---
 layout: default
-last_modified_date: July 2, 2026
+last_modified_date: July 7, 2026
 ---
 
 # AI for African languages conference 2026
@@ -25,7 +25,7 @@ This workshop is meant to be inter-disciplinary, merging industry and research. 
 
 Submissions should follow this [LaTeX style guide](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).
 
-**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=AfriLang_AI/2026/Conference) by July 31st, 2026 AoE.** 
+**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=AfriLang_AI/2026/Conference) by August 15th, 2026 AoE.** 
 > **Note:**  
 > According to OpenReview's moderation policy for newly created profiles in the Call for Papers:
 >
@@ -36,9 +36,9 @@ Submissions should follow this [LaTeX style guide](https://www.overleaf.com/late
 
 ## Timelines:
 
-Deadline for submissions: July 31st, 2026 AoE
+Deadline for submissions: August 15th, 2026 AoE
 
-Acceptance notification: August 31st, 2026
+Acceptance notification: September 15th, 2026
 
 Workshop date: October 15, 2026
 
