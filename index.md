@@ -20,10 +20,10 @@ This workshop is meant to be inter-disciplinary, merging industry and research. 
 
 ## We invite two forms of submissions:
 
-1.  **Research Track:** 2-4 page papers that are a theoretical, methodological, technical, exploratory, or empirical exploration of the themes of this workshop. These will be presented as short lightning talks during the paper panels in the workshop. You will have a chance to get feedback on these papers through post-panel discussion and Q&A.
-2.  **Industry Track:** 1-2 page papers describing deployed solutions of NLP, case studies of successful implementations, or challenges and lessons learned from developing and deploying language technologies for African languages in industry settings.
+1. **Research Track:** Submissions must be **at least 5 pages** (excluding references and supplementary material) presenting theoretical, methodological, technical, exploratory, or empirical work relevant to the themes of this workshop. These will be presented as short lightning talks during dedicated paper panels, followed by interactive discussion and Q&A.
+2. **Industry Track:** Submissions must be **at least 5 pages** (excluding references and supplementary material) describing deployed NLP solutions, case studies of real-world implementations, or practical challenges and lessons learned from developing and deploying language technologies for African languages in industry settings.
 
-Submissions should follow this [LaTeX style guide](https://www.overleaf.com/latex/templates/jmlr-template/zqvxjzpbgxvb).
+Submissions must strictly adhere to the **[LaTeX style guide and template](https://www.overleaf.com/latex/templates/jmlr-template/zqvxjzpbgxvb)**. Submissions that do not conform to this template will be **automatically disqualified without review**.
 
 **You can submit for both tracks using [OpenReview](https://openreview.net/group?id=AfriLang_AI/2026/Conference) by 2nd October, 2026 AoE.** 
 > **Note:**  
@@ -61,7 +61,7 @@ Themes for submissions can include but are not limited to:
 6.  **Applications of NLP for Societal Impact in Africa:** Real-world deployments of NLP solutions in areas such as education, healthcare, agriculture, financial inclusion, and cultural preservation.
 7.  **Computational Linguistics of African Languages:** Linguistic analysis, phonology, morphology, syntax, and semantics of African languages relevant to NLP model development.
 8.  **Tools and Resources for African Language NLP:** Development of open-source libraries, frameworks, evaluation benchmarks, and other resources to facilitate research and development.
-9. **Large Language Models (LLMs) for Enhanced Language Comprehension and Task Flexibility:** Research and development into leveraging large-scale pre-trained models (LLMs) for African languages, including: improving contextual understanding, zero-shot and few-shot Learning, and multilingual capabilities and code-Switching.
+9. **Multilingual LLMs for Enhanced Language Comprehension and Task Flexibility:** Research and development into leveraging large-scale pre-trained models (LLMs) for African languages, including: improving contextual understanding, zero-shot and few-shot Learning, and multilingual capabilities and code-Switching.
 
 ## Reviewing:
 
