@@ -1,6 +1,6 @@
 ---
 layout: default
-last_modified_date: July 7, 2026
+last_modified_date: August 17th, 2026
 ---
 
 # AI for African languages conference 2026
@@ -25,7 +25,7 @@ This workshop is meant to be inter-disciplinary, merging industry and research. 
 
 Submissions should follow this [LaTeX style guide](https://www.overleaf.com/latex/templates/jmlr-template/zqvxjzpbgxvb).
 
-**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=AfriLang_AI/2026/Conference) by August 15th, 2026 AoE.** 
+**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=AfriLang_AI/2026/Conference) by 2nd October, 2026 AoE.** 
 > **Note:**  
 > According to OpenReview's moderation policy for newly created profiles in the Call for Papers:
 >
@@ -36,18 +36,18 @@ Submissions should follow this [LaTeX style guide](https://www.overleaf.com/late
 
 ## Timelines:
 
-Deadline for submissions: August 15th, 2026 AoE
+Deadline for submissions: October 2nd, 2026 AoE
 
-Acceptance notification: September 15th, 2026
+Acceptance notification: November 10th, 2026
 
-Workshop date: October 15, 2026
+Workshop date: December 10th, 2026
 
 ## Venue:
 
-**Makerere University School of Public Health Auditorium, Eastern Gate**  
-8HPC+5X Kampala, Uganda.
+**Makerere University**  
+8HM9+3C Kampala, Uganda.
 
-[View on Google Maps](https://maps.app.goo.gl/vq1twHQBexhwjgAx8)
+[View on Google Maps](https://maps.app.goo.gl/nVvov2JioBrEGUHF8)
 
 ## Workshop scope and topics:
 
@@ -74,10 +74,9 @@ Papers will be peer reviewed by at least 3 Programme Committee members and selec
   - Potential for impact and community building
 
 ## Publication:
-<!-- 
-Accepted submissions will be published online in [PMLR](https://proceedings.mlr.press/) and will also be shared on the workshop website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q&A and discussion sessions. Accepted papers will be asked to be revised to atleast 5 pages for publication.
- -->
-Accepted submissions have been published online in **[Proceedings of Machine Learning Research](https://proceedings.mlr.press/)**.
+Accepted submissions will be published online in **[PMLR](https://proceedings.mlr.press/)** and shared on the workshop website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q&A and discussion sessions. Accepted papers will be asked to be revised to at least 5 pages for publication.
+
+_Proceedings from our 2025 edition are available in **[PMLR Volume 314](https://proceedings.mlr.press/v314/)**._
 ## Organizing Committee
 
 ### General Chair
