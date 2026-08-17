@@ -202,4 +202,12 @@ _Proceedings from our 2025 edition are available in **[PMLR Volume 314](https://
     <strong>John Quinn</strong>, Sunbird AI, Uganda
   </div>
 
+  <div class="committee-member">
+    <strong>Joel Tibabwetiza Muhanguzi</strong>, Sunbird AI, Uganda
+  </div>
+
+  <div class="committee-member">
+    <strong>Janat Namara</strong>, Sunbird AI, Uganda
+  </div>
+
 </div>
