@@ -1,0 +1,577 @@
+---
+layout: null
+permalink: /2025/
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AfriLang AI 2025 - Archive</title>
+  <style>
+    :root {
+      --primary: #4285f4;
+      --primary-dark: #1967d2;
+      --text: #222222;
+      --text-muted: #666666;
+      --bg: #FFFFFF;
+      --card-bg: #F8F9FA;
+      --border: #E9ECEF;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.65;
+      color: var(--text);
+      background: var(--bg);
+      margin: 0;
+      padding: 0;
+    }
+
+    /* Top Global Archive Notice */
+    .archive-banner {
+      background: #2D223C;
+      color: #E0D7E8;
+      text-align: center;
+      padding: 10px 16px;
+      font-size: 0.88rem;
+    }
+
+    .archive-banner a {
+      color: #F2A900;
+      font-weight: 700;
+      text-decoration: none;
+      margin-left: 6px;
+    }
+
+    .archive-banner a:hover {
+      text-decoration: underline;
+    }
+
+    /* 2025 Navbar */
+    .site-nav {
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      background: #FFFFFF;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.8rem 2.5rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+    }
+
+    .site-logo {
+      display: flex;
+      flex-direction: column;
+      text-decoration: none;
+    }
+
+    .site-logo-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .site-logo img {
+      height: 2.2rem;
+      border-radius: 4px;
+    }
+
+    .site-logo-title {
+      font-weight: 700;
+      font-size: 1.4rem;
+      color: var(--primary);
+    }
+
+    .site-logo-subtitle {
+      font-size: 0.8rem;
+      color: #888;
+      margin-left: 2.8rem;
+    }
+
+    .site-nav-list {
+      display: flex;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      gap: 1.8rem;
+    }
+
+    .site-nav-link {
+      color: var(--text);
+      text-decoration: none;
+      font-size: 0.98rem;
+      font-weight: 500;
+      transition: color 0.2s;
+    }
+
+    .site-nav-link:hover {
+      color: var(--primary);
+    }
+
+    .btn-proceedings {
+      background: var(--primary);
+      color: #fff !important;
+      font-weight: 600;
+      padding: 0.5rem 1.2rem;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 0.9rem;
+      transition: background 0.2s;
+    }
+
+    .btn-proceedings:hover {
+      background: var(--primary-dark);
+    }
+
+    /* Main Container */
+    .main-content {
+      max-width: 960px;
+      margin: 35px auto 60px auto;
+      padding: 0 20px;
+    }
+
+    h1 {
+      font-size: 2.2rem;
+      color: #111;
+      margin-bottom: 6px;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      color: #111;
+      margin-top: 2.2rem;
+      padding-bottom: 8px;
+      border-bottom: 2px solid var(--border);
+    }
+
+    h3 {
+      font-size: 1.2rem;
+      color: #333;
+      margin-top: 1.6rem;
+    }
+
+    .meta-box {
+      background: #F4F8FE;
+      border-left: 4px solid var(--primary);
+      padding: 14px 18px;
+      border-radius: 0 8px 8px 0;
+      margin: 20px 0;
+      font-size: 0.95rem;
+    }
+
+    /* Schedule Table */
+    .table-container {
+      overflow-x: auto;
+      margin: 20px 0;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #FFFFFF;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+    }
+
+    th, td {
+      padding: 12px 16px;
+      border: 1px solid var(--border);
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      background: var(--card-bg);
+      font-weight: 600;
+    }
+
+    /* Sponsor Image */
+    .sponsor-img-wrapper {
+      text-align: center;
+      margin: 25px 0;
+      padding: 20px;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+    }
+
+    .sponsor-img-wrapper img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 6px;
+    }
+
+    /* Papers List */
+    .paper-list {
+      list-style-type: none;
+      padding-left: 0;
+    }
+
+    .paper-item {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px 20px;
+      margin-bottom: 14px;
+    }
+
+    .paper-title {
+      font-weight: 700;
+      font-size: 1.05rem;
+    }
+
+    .paper-title a {
+      color: var(--primary-dark);
+      text-decoration: none;
+    }
+
+    .paper-title a:hover {
+      text-decoration: underline;
+    }
+
+    .paper-authors {
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      margin-top: 4px;
+    }
+
+    /* Profile Cards */
+    .profile-card {
+      display: flex;
+      align-items: flex-start;
+      gap: 20px;
+      margin-bottom: 25px;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      padding: 18px;
+      border-radius: 10px;
+    }
+
+    .profile-card img {
+      width: 130px;
+      height: 130px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 3px solid var(--primary);
+      flex-shrink: 0;
+    }
+
+    .profile-info strong {
+      font-size: 1.1rem;
+      color: #111;
+    }
+
+    .profile-info em {
+      color: var(--primary-dark);
+      font-style: normal;
+      font-size: 0.9rem;
+      font-weight: 600;
+    }
+
+    .profile-info p {
+      margin: 8px 0 0 0;
+      font-size: 0.92rem;
+    }
+
+    .committee-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 12px;
+      margin-top: 15px;
+    }
+
+    .committee-member {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      padding: 12px 16px;
+      border-radius: 6px;
+      font-size: 0.92rem;
+    }
+
+    @media (max-width: 768px) {
+      .site-nav {
+        flex-direction: column;
+        gap: 12px;
+        padding: 1rem;
+      }
+      .site-logo-subtitle { display: none; }
+      .site-nav-list { flex-wrap: wrap; justify-content: center; gap: 1rem; }
+      .profile-card { flex-direction: column; align-items: center; text-align: center; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Switcher back to 2026 -->
+  <div class="archive-banner">
+    Archived proceedings for <strong>AfriLang 2025</strong>. Switch to the active <a href="/">AfriLang 2026 Conference &rarr;</a>
+  </div>
+
+  <!-- Isolated 2025 Navbar -->
+  <nav class="site-nav">
+    <div class="site-logo">
+      <div class="site-logo-row">
+        <a href="/2025/"><img src="/assets/images/uglanglogo.jpeg" alt="AfriLang Logo" /></a>
+        <span class="site-logo-title">AfriLang AI 2025</span>
+      </div>
+      <span class="site-logo-subtitle">Bridging Low-Resource Gaps in African Languages</span>
+    </div>
+    <ul class="site-nav-list">
+      <li><a href="#schedule" class="site-nav-link">Schedule</a></li>
+      <li><a href="#accepted-papers" class="site-nav-link">Papers</a></li>
+      <li><a href="#sponsors" class="site-nav-link">Sponsors</a></li>
+      <li><a href="#committee" class="site-nav-link">Committee</a></li>
+    </ul>
+    <div>
+      <a href="https://proceedings.mlr.press/v314/" class="btn-proceedings" target="_blank" rel="noopener noreferrer">PMLR Vol 314 &nearr;</a>
+    </div>
+  </nav>
+
+  <div class="main-content">
+    
+    <h1>AI for African Languages Conference 2025</h1>
+    <p style="font-size: 1.1rem; color: #555; margin-top: 4px;">
+      <em>Unlock the power of East African languages: Innovate, connect, and build inclusive language technology for tomorrow.</em>
+    </p>
+
+    <div class="meta-box">
+      <strong>Conference Date:</strong> Friday, October 10, 2025<br>
+      <strong>Venue:</strong> Four Points by Sheraton, Kampala, Uganda (Plot No. 1 Elgon Terrace) &bull; 
+      <a href="https://maps.app.goo.gl/CG2nhqYJWzxRwaib6" target="_blank">View Map</a><br>
+      <strong>Published Proceedings:</strong> <a href="https://proceedings.mlr.press/v314/" target="_blank">PMLR Volume 314</a>
+    </div>
+
+    <!-- Schedule Section -->
+    <h2 id="schedule">Program Schedule</h2>
+    <p><small>All times listed in East Africa Time (EAT / GMT+3) &bull; Friday, October 10, 2025</small></p>
+
+    <div class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th style="width: 140px;">Time</th>
+            <th>Session Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>07:30 – 08:30</strong></td>
+            <td>Registration</td>
+          </tr>
+          <tr>
+            <td><strong>08:30 – 08:40</strong></td>
+            <td><strong>Welcome Remarks</strong><br>Prof. Engineer Bainomugisha (<em>Chair of Computer Science Department, Makerere University; Board Member, Sunbird AI</em>)</td>
+          </tr>
+          <tr>
+            <td><strong>08:40 – 09:40</strong></td>
+            <td><strong>Keynote and Product Launch By Sunbird AI</strong><br>Dr. Ernest Mwebaze & Dr. John Quinn</td>
+          </tr>
+          <tr>
+            <td><strong>09:40 – 10:00</strong></td>
+            <td><strong>Official Opening Keynote</strong><br>Dr. Aminah Zawedde (<em>Permanent Secretary, Ministry of ICT & National Guidance, Uganda</em>)</td>
+          </tr>
+          <tr>
+            <td><strong>10:00 – 10:30</strong></td>
+            <td><strong>Group Photo / Tea & Coffee Break</strong></td>
+          </tr>
+          <tr>
+            <td><strong>10:30 – 10:50</strong></td>
+            <td><strong>Invited Talk: Language Preservation in the AI Age</strong><br>Ms. Babra Babweteera (<em>Executive Director, Cross-Cultural Foundation of Uganda</em>)</td>
+          </tr>
+          <tr>
+            <td><strong>10:50 – 11:00</strong></td>
+            <td><strong>Opening of AfriLang Conference</strong><br>Dr. Joyce Nabende (<em>Head, Makerere University Center for AI</em>)</td>
+          </tr>
+          <tr>
+            <td><strong>11:00 – 11:30</strong></td>
+            <td><strong>Invited Talk: African NLP Strategy</strong><br>Prof. Vukosi Marivate (<em>Co-Founder, Masakhane NLP, Deep Learning Indaba, Lelapa</em>)</td>
+          </tr>
+          <tr>
+            <td><strong>11:30 – 13:00</strong></td>
+            <td>
+              <strong>Paper Presentations: Session 1</strong> (10 mins presentation + 5 mins plenary)<br><br>
+              1. <a href="https://openreview.net/forum?id=X5W4iEdnLk" target="_blank">Promoting Uganda’s major local languages: Introducing Luganda Text generation models and diverse accent-aware TTS models</a><br>
+              <em>Rashid Kisejjere, Reuben Magala, Abubakhari Sserwadda</em><br><br>
+              2. <a href="https://openreview.net/forum?id=BEddoSwcEi" target="_blank">Tonative: Community-Driven Extension of African Datasets Through Human-AI Collaboration</a><br>
+              <em>Cynthia Jayne Amol, Sharon Ibejih</em><br><br>
+              3. <a href="https://openreview.net/forum?id=IVpC4xW0tV" target="_blank">Bridging the Language Gap: Fine-Tuning LLama for Machine Translation in Low-Resource African Languages</a><br>
+              <em>Mary Wambui Kariuki, Joseph Muguro, Ciira wa Maina, Lilian Diana Awuor Wanzare</em><br><br>
+              4. <a href="https://openreview.net/forum?id=56Htag39aE" target="_blank">Sauti Halisi: Towards Direct Speech-to-Text Translation for Colloquial and Code-Switched Swahili</a><br>
+              <em>Brian Gillo</em>
+            </td>
+          </tr>
+          <tr>
+            <td><strong>13:00 – 14:00</strong></td>
+            <td><strong>Lunch Break</strong></td>
+          </tr>
+          <tr>
+            <td><strong>14:00 – 14:30</strong></td>
+            <td><strong>Invited Talk on African Language Technology</strong><br>Dr. John A. Quinn (<em>Director of Research, Sunbird AI</em>)</td>
+          </tr>
+          <tr>
+            <td><strong>14:30 – 15:50</strong></td>
+            <td>
+              <strong>Paper Presentations: Session 2</strong> (10 mins presentation + 5 mins plenary)<br><br>
+              1. <a href="https://openreview.net/forum?id=QeJ1VNSwHQ" target="_blank">End-to-End Continuous Ethiopia Sign Language Recognition</a><br>
+              <em>Anteneh Yehalem Tegegne</em><br><br>
+              2. <a href="https://openreview.net/forum?id=haGLuSZQlS" target="_blank">KALAM-NA: Multi-Dialectal Corpus for 16 variants of the Sara linguistic family of Chad</a><br>
+              <em>Abdel-aziz Harane Abounounou</em><br><br>
+              3. <a href="https://openreview.net/forum?id=i1QAk9R82A" target="_blank">Robust Tokenization for Low-Resource Oromo Medical Texts via Novel Lightweight Augmentation</a><br>
+              <em>Karthik Srikumar</em><br><br>
+              4. <a href="https://openreview.net/forum?id=9lNrLnnWGN" target="_blank">How much speech data is necessary for ASR in African languages? An evaluation of data scaling in Kinyarwanda and Kikuyu</a><br>
+              <em>Benjamin Akera, Evelyn Nafula, Patrick Walukagga, Gilbert Yiga, John Quinn, Ernest Tonny Mwebaze</em>
+            </td>
+          </tr>
+          <tr>
+            <td><strong>15:50 – 16:50</strong></td>
+            <td>
+              <strong>Panel Session: What next for African language AI</strong><br>
+              <strong>Moderator:</strong> Dr. Ernest Mwebaze (<em>Sunbird AI</em>)<br>
+              <strong>Panelists:</strong>
+              <ul style="margin: 6px 0; padding-left: 20px;">
+                <li>Dr. Joyce Nakatumba Nabende (<em>Head, Makerere University Center for AI</em>)</li>
+                <li>Prof. Vukosi Marivate (<em>University of Pretoria, ABSA Chair of Data Science</em>)</li>
+                <li>Dr. Lilian Wanzare (<em>Maseno University, KenCorpus</em>)</li>
+                <li>Chenai Chair (<em>Director, Masakhane African Languages Hub</em>)</li>
+                <li>Samuel Rutunda (<em>Digital Umuganda</em>)</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td><strong>16:50 – 17:00</strong></td>
+            <td><strong>Closing Remarks</strong></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Accepted Papers Section -->
+    <h2 id="accepted-papers">Published Proceedings (PMLR Vol. 314)</h2>
+    <ul class="paper-list">
+      <li class="paper-item">
+        <div class="paper-title"><a href="https://openreview.net/forum?id=56Htag39aE" target="_blank">Sauti Halisi: Towards Direct Speech-to-Text Translation for Colloquial and Code-Switched Swahili</a></div>
+        <div class="paper-authors">Brian Gillo</div>
+      </li>
+      <li class="paper-item">
+        <div class="paper-title"><a href="https://openreview.net/forum?id=X5W4iEdnLk" target="_blank">Promoting Uganda’s major local languages: Introducing Luganda Text generation models and diverse accent-aware TTS models</a></div>
+        <div class="paper-authors">Rashid Kisejjere, Reuben Magala, Abubakhari Sserwadda</div>
+      </li>
+      <li class="paper-item">
+        <div class="paper-title"><a href="https://openreview.net/forum?id=QeJ1VNSwHQ" target="_blank">End-to-End Continuous Ethiopia Sign Language Recognition</a></div>
+        <div class="paper-authors">Anteneh Yehalem Tegegne</div>
+      </li>
+      <li class="paper-item">
+        <div class="paper-title"><a href="https://openreview.net/forum?id=BEddoSwcEi" target="_blank">Tonative: Community-Driven Extension of African Datasets Through Human-AI Collaboration</a></div>
+        <div class="paper-authors">Cynthia Jayne Amol, Sharon Ibejih</div>
+      </li>
+      <li class="paper-item">
+        <div class="paper-title"><a href="https://openreview.net/forum?id=IVpC4xW0tV" target="_blank">Bridging the Language Gap: Fine-Tuning LLama for Machine Translation in Low-Resource African Languages</a></div>
+        <div class="paper-authors">Mary Wambui Kariuki, Joseph Muguro, Ciira wa Maina, Lilian Diana Awuor Wanzare</div>
+      </li>
+      <li class="paper-item">
+        <div class="paper-title"><a href="https://openreview.net/forum?id=haGLuSZQlS" target="_blank">KALAM-NA: Multi-Dialectal Corpus for 16 variants of the Sara linguistic family of Chad</a></div>
+        <div class="paper-authors">Abdel-aziz Harane Abounounou</div>
+      </li>
+      <li class="paper-item">
+        <div class="paper-title"><a href="https://openreview.net/forum?id=9lNrLnnWGN" target="_blank">How much speech data is necessary for ASR in African languages? An evaluation of data scaling in Kinyarwanda and Kikuyu</a></div>
+        <div class="paper-authors">Benjamin Akera, Evelyn Nafula, Patrick Walukagga, Gilbert Yiga, John Quinn, Ernest Tonny Mwebaze</div>
+      </li>
+      <li class="paper-item">
+        <div class="paper-title"><a href="https://openreview.net/forum?id=i1QAk9R82A" target="_blank">Robust Tokenization for Low-Resource Oromo Medical Texts via Novel Lightweight Augmentation</a></div>
+        <div class="paper-authors">Karthik Srikumar</div>
+      </li>
+    </ul>
+
+    <!-- Sponsors Section -->
+    <h2 id="sponsors">Sponsors & Partners</h2>
+    <div class="sponsor-img-wrapper">
+      <img src="/assets/images/sponsor%20logos%20v2.002.jpeg" alt="AfriLang 2025 Sponsors" />
+    </div>
+
+    <!-- Committee Section -->
+    <h2 id="committee">Organizing Committee</h2>
+
+    <h3>General Chair</h3>
+    <div class="profile-card">
+      <img src="/assets/images/em.jpg" alt="Dr. Ernest Mwebaze" />
+      <div class="profile-info">
+        <strong>Dr. Ernest Mwebaze</strong><br>
+        <em>Executive Director, Sunbird AI</em>
+        <p>Executive Director of Sunbird AI. Over a decade of research at Makerere University (co-founding the AI Lab), former research scientist at Google AI Ghana and UN Global Pulse Kampala. PhD from University of Groningen.</p>
+      </div>
+    </div>
+
+    <h3>Co-Chairs</h3>
+    <div class="profile-card">
+      <img src="/assets/images/rk.jpg" alt="Dr. Richard Kimera" />
+      <div class="profile-info">
+        <strong>Dr. Richard Kimera</strong><br>
+        <em>Lecturer, Mbarara University of Science and Technology (MUST)</em>
+        <p>Focuses on NLP and Neural Machine Translation for low-resource languages, including the English–Luganda parallel corpus. PhD from Handong Global University.</p>
+      </div>
+    </div>
+
+    <div class="profile-card">
+      <img src="/assets/images/jnn.jpeg" alt="Dr. Joyce Nakatumba-Nabende" />
+      <div class="profile-info">
+        <strong>Dr. Joyce Nakatumba-Nabende</strong><br>
+        <em>Head of AI Lab, Makerere University</em>
+        <p>Senior Lecturer and Head of Makerere AI Lab, leading initiatives in NLP, Machine Learning, and Responsible AI across East Africa. PhD from Eindhoven University of Technology.</p>
+      </div>
+    </div>
+
+    <h3>Program Committee Chairs</h3>
+    <div class="profile-card">
+      <img src="/assets/images/ak.jpeg" alt="Dr. Andrew Katumba" />
+      <div class="profile-info">
+        <strong>Dr. Andrew Katumba</strong><br>
+        <em>Lecturer, Makerere University</em>
+        <p>Head of the Marconi Research and Innovation Lab at Makerere University, applying AI to healthcare in low-resource environments. PhD from Ghent University.</p>
+      </div>
+    </div>
+
+    <div class="profile-card">
+      <img src="/assets/images/johnqunin.jpg" alt="Dr. John Quinn" />
+      <div class="profile-info">
+        <strong>Dr. John Quinn</strong><br>
+        <em>Director of Research, Sunbird AI</em>
+        <p>Director of Research at Sunbird AI, former Staff Research Software Engineer at Google (Open Buildings project) and UN Global Pulse. PhD from University of Edinburgh.</p>
+      </div>
+    </div>
+
+    <div class="profile-card">
+      <img src="/assets/images/eb.jpeg" alt="Prof. Engineer Bainomugisha" />
+      <div class="profile-info">
+        <strong>Prof. Engineer Bainomugisha</strong><br>
+        <em>Chair of Computer Science, Makerere University</em>
+        <p>Professor & Chair of Computer Science at Makerere University, founder of AirQo, and founding board member of Sunbird AI. PhD from Vrije Universiteit Brussel.</p>
+      </div>
+    </div>
+
+    <h3>Program Committee Members</h3>
+    <div class="committee-grid">
+      <div class="committee-member"><strong>Happy Buzaaba</strong>, Princeton University</div>
+      <div class="committee-member"><strong>Peter Nabende</strong>, Makerere University</div>
+      <div class="committee-member"><strong>Dina Machuve</strong>, DevData Analytics</div>
+      <div class="committee-member"><strong>Zewdie Mossie Erukneh</strong>, Debre Markos University</div>
+      <div class="committee-member"><strong>David Sabiiti Bamutura</strong>, MUST</div>
+      <div class="committee-member"><strong>Engineer Bainomugisha</strong>, Makerere University</div>
+      <div class="committee-member"><strong>Ernest Mwebaze</strong>, Sunbird AI</div>
+      <div class="committee-member"><strong>Joyce Nakatumba Nabende</strong>, Makerere University</div>
+      <div class="committee-member"><strong>Andrew Katumba</strong>, Makerere University</div>
+      <div class="committee-member"><strong>Richard Kimera</strong>, MUST</div>
+      <div class="committee-member"><strong>John Quinn</strong>, Sunbird AI</div>
+      <div class="committee-member"><strong>Lilian D. Awuor Wanzare</strong>, Maseno University</div>
+    </div>
+
+  </div>
+</body>
+</html>
