@@ -165,6 +165,42 @@ last_modified_date: August 17th, 2026
       text-align: center;
     }
   }
+
+  /* Snap Slider */
+.slider-container {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding: 10px 5px 20px 5px;
+  scrollbar-width: thin;
+  scrollbar-color: var(--brand-accent) #eee;
+}
+
+.slider-card {
+  flex: 0 0 320px;
+  scroll-snap-align: start;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid var(--border-color);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  background: var(--card-bg);
+}
+
+.slider-card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  display: block;
+}
+
+.slider-card p {
+  padding: 10px 14px;
+  font-size: 0.85rem;
+  margin: 0;
+  color: #554D45;
+  text-align: left;
+}
 </style>
 
 <div class="hero-banner">
@@ -293,5 +329,26 @@ _Proceedings from our 2025 edition are available in **[PMLR Volume 314](https://
   </div>
   <div class="committee-member">
     <strong>Janat Namara</strong>, Sunbird AI, Uganda
+  </div>
+</div>
+
+## AfriLang in Pictures
+
+<div class="slider-container">
+  <div class="slider-card">
+    <img src="/assets/images/gallery/photo1.jpg" alt="Conference Opening" />
+    <p>Opening remarks & keynotes</p>
+  </div>
+  <div class="slider-card">
+    <img src="/assets/images/gallery/photo2.jpg" alt="Paper Presentations" />
+    <p>Research track lightning talks</p>
+  </div>
+  <div class="slider-card">
+    <img src="/assets/images/gallery/photo3.jpg" alt="Workshop Panel" />
+    <p>Industry & low-resource NLP panel</p>
+  </div>
+  <div class="slider-card">
+    <img src="/assets/images/gallery/photo4.jpg" alt="Community networking" />
+    <p>Community building & networking</p>
   </div>
 </div>
