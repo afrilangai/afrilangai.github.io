@@ -163,6 +163,120 @@ last_modified_date: August 21st, 2026
       text-align: center;
     }
   }
+  /* Auto/Interactive Carousel Slider */
+  .carousel-wrapper {
+    position: relative;
+    max-width: 820px;
+    margin: 25px auto 40px auto;
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: 0 6px 20px rgba(63, 43, 86, 0.12);
+    background: #1E1B26;
+  }
+
+  .carousel-slides {
+    position: relative;
+    width: 100%;
+    height: 420px;
+  }
+
+  .slide {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition: opacity 0.6s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+
+  .slide.active {
+    opacity: 1;
+    z-index: 2;
+  }
+
+  .slide img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .slide-caption {
+    position: relative;
+    z-index: 3;
+    background: linear-gradient(0deg, rgba(30, 27, 38, 0.88) 0%, rgba(30, 27, 38, 0) 100%);
+    color: #FFFFFF;
+    padding: 30px 24px 18px 24px;
+    font-size: 0.95rem;
+    font-weight: 500;
+  }
+
+  /* Arrows */
+  .carousel-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+    background: rgba(255, 255, 255, 0.85);
+    color: var(--brand-primary);
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.2s, transform 0.15s;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  }
+
+  .carousel-btn:hover {
+    background: var(--brand-orange);
+    color: #FFFFFF;
+    transform: translateY(-50%) scale(1.08);
+  }
+
+  .carousel-prev { left: 14px; }
+  .carousel-next { right: 14px; }
+
+  /* Navigation Dots */
+  .carousel-dots {
+    position: absolute;
+    bottom: 12px;
+    right: 20px;
+    z-index: 10;
+    display: flex;
+    gap: 8px;
+  }
+
+  .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.4);
+    cursor: pointer;
+    transition: background 0.25s, transform 0.2s;
+  }
+
+  .dot.active {
+    background: var(--brand-accent);
+    transform: scale(1.25);
+  }
+
+  @media (max-width: 700px) {
+    .carousel-slides {
+      height: 280px;
+    }
+    .carousel-btn {
+      width: 32px;
+      height: 32px;
+      font-size: 0.9rem;
+    }
+  }
 </style>
 
 <div class="hero-banner">
@@ -293,3 +407,71 @@ _Proceedings from our 2025 edition are available in **[PMLR Volume 314](https://
     <strong>Janat Namara</strong>, Sunbird AI, Uganda
   </div>
 </div>
+
+---
+
+## AfriLang in Pictures
+
+<div class="carousel-wrapper">
+  <button class="carousel-btn carousel-prev" onclick="changeSlide(-1)" aria-label="Previous slide">&#10094;</button>
+  <button class="carousel-btn carousel-next" onclick="changeSlide(1)" aria-label="Next slide">&#10095;</button>
+
+  <div class="carousel-slides">
+    <div class="slide active">
+      <img src="{{ '/assets/images/gallery/photo1.jpg' | relative_url }}" alt="Conference Opening" />
+      <div class="slide-caption">Opening remarks & keynote presentations</div>
+    </div>
+    <div class="slide active">
+      <img src="{{ '/assets/images/gallery/photo2.jpg' | relative_url }}" alt="Paper Presentations" />
+      <div class="slide-caption">Research track lightning talks and paper sessions</div>
+    </div>
+    <div class="slide">
+      <img src="{{ '/assets/images/gallery/photo3.jpg' | relative_url }}" alt="Workshop Panel" />
+      <div class="slide-caption">Interactive industry and academic panel discussions</div>
+    </div>
+    <div class="slide">
+      <img src="{{ '/assets/images/gallery/photo4.jpg' | relative_url }}" alt="Community networking" />
+      <div class="slide-caption">Community building across East African NLP researchers</div>
+    </div>
+  </div>
+
+  <div class="carousel-dots">
+    <span class="dot active" onclick="goToSlide(0)"></span>
+    <span class="dot" onclick="goToSlide(1)"></span>
+    <span class="dot" onclick="goToSlide(2)"></span>
+    <span class="dot" onclick="goToSlide(3)"></span>
+  </div>
+</div>
+
+<script>
+  let currentSlide = 0;
+  const slides = document.querySelectorAll('.slide');
+  const dots = document.querySelectorAll('.dot');
+  let slideInterval = setInterval(autoNext, 4500);
+
+  function showSlide(index) {
+    slides.forEach((s, i) => {
+      s.classList.toggle('active', i === index);
+      if (dots[i]) dots[i].classList.toggle('active', i === index);
+    });
+    currentSlide = index;
+  }
+
+  function changeSlide(direction) {
+    clearInterval(slideInterval);
+    let nextIndex = (currentSlide + direction + slides.length) % slides.length;
+    showSlide(nextIndex);
+    slideInterval = setInterval(autoNext, 4500);
+  }
+
+  function goToSlide(index) {
+    clearInterval(slideInterval);
+    showSlide(index);
+    slideInterval = setInterval(autoNext, 4500);
+  }
+
+  function autoNext() {
+    let nextIndex = (currentSlide + 1) % slides.length;
+    showSlide(nextIndex);
+  }
+</script>
