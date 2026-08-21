@@ -355,14 +355,25 @@ _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})
 
 ## Organizing Committee
 
-### General Chair
+### General Chairs
 
 <div class="chair-card">
   <img src="{{ '/assets/images/em.jpg' | relative_url }}" alt="Dr. Ernest Mwebaze" />
   <div>
     <strong>Dr. Ernest Mwebaze</strong><br/>
-    <em>Executive Director, Sunbird AI</em><br/><br/>
+    <em>General Chair</em><br/>
+    <small>Executive Director, Sunbird AI</small><br/><br/>
     Dr. Ernest Mwebaze is the Executive Director of Sunbird AI, a non-profit that develops practical AI research and products for social impact with a focus on Africa. He has over a decade of experience teaching and researching at Makerere University, where he co-founded its Artificial Intelligence Lab. He has worked as a research scientist at Google AI in Ghana and at the UN Pulse Lab in Kampala, applying AI to tackle development challenges in agriculture, utilities, the SDGs, and African language technologies. He holds a PhD in Machine Learning from the University of Groningen, The Netherlands.
+  </div>
+</div>
+
+<div class="chair-card">
+  <img src="{{ '/assets/images/jnn.jpeg' | relative_url }}" alt="Dr. Joyce Nakatumba-Nabende" />
+  <div>
+    <strong>Dr. Joyce Nakatumba-Nabende</strong><br/>
+    <em>General Co-Chair</em><br/>
+    <small>Head of AI Lab, Makerere University</small><br/><br/>
+    Dr. Joyce Nakatumba-Nabende is a Senior Lecturer in the Department of Computer Science and Head of the Makerere AI Lab, leading initiatives in NLP, Machine Learning, and Responsible AI across East Africa. Her research centers on applying language technologies and AI for societal impact in health and agriculture. She holds a PhD in Computer Science from Eindhoven University of Technology, The Netherlands.
   </div>
 </div>
 
