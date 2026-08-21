@@ -16,6 +16,7 @@ heading_anchors: true
 include:
   - assets
   - assets/images
+  - 2025
 
 # Footer
 
