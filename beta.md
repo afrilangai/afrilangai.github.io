@@ -246,7 +246,7 @@ _Proceedings from our 2025 edition are available in **[PMLR Volume 314](https://
 ### General Chair
 
 <div class="chair-card">
-  <img src="assets/images/em.jpg" alt="Dr. Ernest Mwebaze" />
+  <img src="/assets/images/em.jpg" alt="Dr. Ernest Mwebaze" />
   <div>
     <strong>Dr. Ernest Mwebaze</strong><br/>
     <em>Executive Director, Sunbird AI</em><br/><br/>
@@ -257,7 +257,7 @@ _Proceedings from our 2025 edition are available in **[PMLR Volume 314](https://
 ### Program Committee Chairs
 
 <div class="profile">
-  <img src="assets/images/johnqunin.jpg" alt="Dr. John Quinn" />
+  <img src="/assets/images/johnqunin.jpg" alt="Dr. John Quinn" />
   <div>
     <strong>Dr. John Quinn</strong><br/>
     <em>Director, Sunbird AI</em><br/><br/>
@@ -266,7 +266,7 @@ _Proceedings from our 2025 edition are available in **[PMLR Volume 314](https://
 </div>
 
 <div class="chair-card">
-  <img src="assets/images/eb.jpeg" alt="Prof. Engineer Bainomugisha" />
+  <img src="/assets/images/eb.jpeg" alt="Prof. Engineer Bainomugisha" />
   <div>
     <strong>Prof. Engineer Bainomugisha</strong><br/>
     <em>Professor & Chair, Department of Computer Science, Makerere University</em><br/><br/>
