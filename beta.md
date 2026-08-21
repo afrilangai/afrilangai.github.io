@@ -271,7 +271,7 @@ _Proceedings from our 2025 edition are available in **[PMLR Volume 314](https://
   <div>
     <strong>Prof. Engineer Bainomugisha</strong><br/>
     <em>Program Committee & Publications Chair</em><br/>
-    <small>Professor & Chair, Department of Computer Science, Makerere University</small><br/><br/>
+    <small>Professor, Department of Computer Science, Makerere University</small><br/><br/>
     Prof. Engineer Bainomugisha is a Professor and the Chair of Computer Science at Makerere University, Uganda. His research interests span programming language engineering, distributed and cloud systems, low-cost sensor technologies and applications of AI for social impact. His pioneering work includes AirQo, Africa's largest air quality monitoring and modelling system. He serves as a founding board member of Sunbird AI, championing AI for public good. He holds a PhD in Computer Science from Vrije Universiteit Brussel, Belgium.
   </div>
 </div>
