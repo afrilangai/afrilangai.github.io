@@ -349,7 +349,7 @@ Papers will be peer reviewed by at least 3 Programme Committee members and selec
 
 Accepted submissions will be published online in **[PMLR](https://proceedings.mlr.press/)** and shared on the workshop website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q&A and discussion sessions. Accepted papers will be asked to be revised to at least 5 pages for publication.
 
-_Proceedings from our 2025 edition are available in **[PMLR Volume 314](https://proceedings.mlr.press/v314/)**._
+_Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})** or view the published papers in **[PMLR Volume 314](https://proceedings.mlr.press/v314/)**._
 
 ---
 
