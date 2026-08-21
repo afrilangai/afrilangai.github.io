@@ -254,13 +254,14 @@ _Proceedings from our 2025 edition are available in **[PMLR Volume 314](https://
   </div>
 </div>
 
-### Program Committee Chairs
+### Program Committee & Publications Chairs
 
-<div class="profile">
+<div class="chair-card">
   <img src="/assets/images/johnqunin.jpg" alt="Dr. John Quinn" />
   <div>
     <strong>Dr. John Quinn</strong><br/>
-    <em>Director, Sunbird AI</em><br/><br/>
+    <em>Program Committee Chair</em><br/>
+    <small>Director, Sunbird AI</small><br/><br/>
     John Quinn is the Director of Research at Sunbird AI in Uganda. He has previously been a Staff Research Software Engineer at Google, where he started the Open Buildings project to map three continents using satellite imagery and computer vision, was technical lead for Africa projects at United Nations Global Pulse, and Senior Lecturer in Computer Science at Makerere University in Uganda. He has worked on a number of large scale AI projects across the African continent, in the fields of remote sensing, speech and language, agriculture and health. He holds a BA in computer science from the University of Cambridge (2000), and a PhD in machine learning from the University of Edinburgh (2007).
   </div>
 </div>
@@ -269,7 +270,8 @@ _Proceedings from our 2025 edition are available in **[PMLR Volume 314](https://
   <img src="/assets/images/eb.jpeg" alt="Prof. Engineer Bainomugisha" />
   <div>
     <strong>Prof. Engineer Bainomugisha</strong><br/>
-    <em>Professor & Chair, Department of Computer Science, Makerere University</em><br/><br/>
+    <em>Program Committee & Publications Chair</em><br/>
+    <small>Professor & Chair, Department of Computer Science, Makerere University</small><br/><br/>
     Prof. Engineer Bainomugisha is a Professor and the Chair of Computer Science at Makerere University, Uganda. His research interests span programming language engineering, distributed and cloud systems, low-cost sensor technologies and applications of AI for social impact. His pioneering work includes AirQo, Africa's largest air quality monitoring and modelling system. He serves as a founding board member of Sunbird AI, championing AI for public good. He holds a PhD in Computer Science from Vrije Universiteit Brussel, Belgium.
   </div>
 </div>
