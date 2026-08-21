@@ -7,11 +7,11 @@ last_modified_date: August 17th, 2026
 
 <style>
   :root {
-    --brand-primary: #3F2B56;    /* Deep Eggplant Purple from banner title */
+    --brand-primary: #3F2B56;    /* Deep Eggplant Purple from banner */
     --brand-accent: #F2A900;     /* Sunbird Warm Gold */
     --brand-orange: #E65100;     /* Vibrant Sun Orange */
     --brand-dark: #1E1B26;
-    --brand-bg: #FDFBF7;         /* Warm clean paper tone */
+    --brand-bg: #FDFBF7;
     --card-bg: #FFFFFF;
     --border-color: #EADFD7;
   }
@@ -21,13 +21,20 @@ last_modified_date: August 17th, 2026
     color: var(--brand-dark);
   }
 
-  /* Hero Section */
+  /* Typography alignment */
+  p, .profile div, .chair-card div {
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.65;
+  }
+
+  /* Hero Banner */
   .hero-banner {
     background: linear-gradient(135deg, #3F2B56 0%, #251736 100%);
     color: #FFFFFF;
-    padding: 50px 35px;
+    padding: 45px 35px;
     border-radius: 16px;
-    margin-bottom: 40px;
+    margin-bottom: 35px;
     position: relative;
     overflow: hidden;
     box-shadow: 0 10px 30px rgba(63, 43, 86, 0.15);
@@ -45,7 +52,7 @@ last_modified_date: August 17th, 2026
   }
 
   .hero-title {
-    font-size: 2.6rem;
+    font-size: 2.5rem;
     font-weight: 800;
     color: #FFFFFF !important;
     margin-bottom: 8px;
@@ -53,29 +60,22 @@ last_modified_date: August 17th, 2026
   }
 
   .hero-subtitle {
-    font-size: 1.35rem;
+    font-size: 1.25rem;
     color: var(--brand-accent);
-    font-weight: 500;
-    margin-bottom: 18px;
-  }
-
-  .hero-tagline {
-    font-size: 1.05rem;
-    line-height: 1.6;
-    max-width: 800px;
-    color: #E0D7E8;
+    font-weight: 300;
     margin-bottom: 0;
+    line-height: 1.5;
   }
 
   /* Section Headings */
-  h2, h3 {
+  h1, h2, h3 {
     color: var(--brand-primary);
     font-weight: 700;
     position: relative;
     padding-bottom: 8px;
   }
 
-  h2::after {
+  h1::after, h2::after {
     content: "";
     position: absolute;
     left: 0;
@@ -86,61 +86,8 @@ last_modified_date: August 17th, 2026
     border-radius: 2px;
   }
 
-  /* Key Dates & Timeline Grid */
-  .dates-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 16px;
-    margin: 25px 0 35px 0;
-  }
-
-  .date-card {
-    background: var(--card-bg);
-    border: 1px solid var(--border-color);
-    border-top: 4px solid var(--brand-accent);
-    border-radius: 10px;
-    padding: 18px 20px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
-  }
-
-  .date-card.highlight {
-    border-top-color: var(--brand-orange);
-    background: #FFF9F5;
-  }
-
-  .date-label {
-    font-size: 0.85rem;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    color: #776E65;
-    font-weight: 600;
-  }
-
-  .date-val {
-    font-size: 1.15rem;
-    font-weight: 700;
-    color: var(--brand-primary);
-    margin-top: 4px;
-  }
-
-  /* Callout box */
-  .notice-card {
-    background: #F4EFF8;
-    border-left: 5px solid var(--brand-primary);
-    padding: 18px 22px;
-    border-radius: 0 10px 10px 0;
-    margin: 25px 0;
-  }
-
-  /* Profiles & Cards */
-  .profile-grid {
-    display: flex;
-    flex-direction: column;
-    gap: 24px;
-    margin: 25px 0;
-  }
-
-  .chair-card {
+  /* Profile & Chair Cards */
+  .chair-card, .profile {
     display: flex;
     align-items: flex-start;
     gap: 22px;
@@ -148,37 +95,39 @@ last_modified_date: August 17th, 2026
     border: 1px solid var(--border-color);
     border-radius: 12px;
     padding: 22px;
+    margin-bottom: 25px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
   }
 
-  .chair-card img {
+  .chair-card img, .profile img {
     width: 140px;
     height: 140px;
     object-fit: cover;
     border-radius: 50%;
     border: 3px solid var(--brand-accent);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     flex-shrink: 0;
   }
 
-  .chair-info strong {
-    font-size: 1.2rem;
+  .chair-card div, .profile div {
+    max-width: 700px;
+  }
+
+  .chair-card strong, .profile strong {
+    font-size: 1.15rem;
+    display: inline-block;
+    margin-bottom: 2px;
     color: var(--brand-primary);
   }
 
-  .chair-info em {
+  .chair-card em, .profile em {
     color: var(--brand-orange);
     font-style: normal;
     font-weight: 600;
     font-size: 0.95rem;
   }
 
-  .chair-info p {
-    margin-top: 10px;
-    line-height: 1.6;
-    color: #443E38;
-  }
-
-  /* Committee Pills */
+  /* Committee Grid */
   .committee {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -191,33 +140,26 @@ last_modified_date: August 17th, 2026
     padding: 14px 18px;
     border-radius: 8px;
     border: 1px solid var(--border-color);
-    font-size: 0.95rem;
+    line-height: 1.5;
   }
 
   .committee-member strong {
     color: var(--brand-primary);
-  }
-
-  /* CTA Buttons */
-  .btn-submit {
     display: inline-block;
-    background: var(--brand-primary);
-    color: #FFFFFF !important;
-    padding: 12px 26px;
-    font-weight: 600;
-    border-radius: 8px;
-    text-decoration: none;
-    transition: background 0.2s;
-    margin-top: 10px;
+    margin-right: 4px;
   }
 
-  .btn-submit:hover {
-    background: var(--brand-orange);
-    color: #FFFFFF !important;
+  /* Callout Blockquote Styling */
+  blockquote {
+    background: #F4EFF8;
+    border-left: 5px solid var(--brand-primary) !important;
+    padding: 16px 20px;
+    border-radius: 0 8px 8px 0;
+    margin: 20px 0;
   }
 
   @media (max-width: 700px) {
-    .chair-card {
+    .chair-card, .profile {
       flex-direction: column;
       align-items: center;
       text-align: center;
@@ -226,79 +168,76 @@ last_modified_date: August 17th, 2026
 </style>
 
 <div class="hero-banner">
-  <div class="hero-title">AfriLang AI 2026</div>
-  <div class="hero-subtitle">AI for African Languages Conference</div>
-  <p class="hero-tagline">
-    Unlock the power of East African languages: Innovate, connect, and build inclusive language technology for tomorrow.
-  </p>
+  <div class="hero-title">AI for African languages conference 2026</div>
+  <div class="hero-subtitle">Unlock the power of East African languages: Innovate, connect, and build inclusive language technology for tomorrow.</div>
 </div>
 
-The field of Natural Language Processing (NLP) has made remarkable strides, yet a significant disparity persists in the resources available for different languages. African languages, in particular, are largely underrepresented in NLP research and development, leading to a critical "low-resource" challenge. 
+The field of Natural Language Processing (NLP) has made remarkable strides, yet a significant disparity persists in the resources available for different languages. African languages, in particular, are largely underrepresented in NLP research and development, leading to a critical "low-resource" challenge. This workshop aims to address this gap by bringing together NLP researchers, practitioners, and companies from across Africa, with a strong focus on the vibrant East African region. Our goal is to foster collaboration, share cutting-edge research, and showcase practical applications of NLP for African languages, ultimately accelerating the development of robust and inclusive language technologies.
 
-This workshop brings together NLP researchers, practitioners, and industry teams from across Africa—with a focus on the East African region—to foster collaboration, share cutting-edge research, and accelerate inclusive language technologies.
+# Call for Submissions
 
----
+We are looking for submissions that present original research, practical deployments, and innovative ideas addressing the unique challenges and opportunities in low-resource language technology, specifically for African languages. We encourage contributions that explore theoretical advancements, methodological innovations, empirical studies, and real-world applications.
 
-## Important Dates
+This workshop is meant to be inter-disciplinary, merging industry and research. We believe that bridging the gap between academic exploration and industrial implementation is crucial for impactful progress in low-resource language technology. We encourage submissions that showcase collaborative efforts and demonstrate the potential for NLP to solve real-world problems in African contexts.
 
-<div class="dates-grid">
-  <div class="date-card highlight">
-    <div class="date-label">Submission Deadline</div>
-    <div class="date-val">Oct 2, 2026 (AoE)</div>
-  </div>
-  <div class="date-card">
-    <div class="date-label">Acceptance Notice</div>
-    <div class="date-val">Nov 10, 2026</div>
-  </div>
-  <div class="date-card">
-    <div class="date-label">Workshop Date</div>
-    <div class="date-val">Dec 10, 2026</div>
-  </div>
-  <div class="date-card">
-    <div class="date-label">Location</div>
-    <div class="date-val">Makerere University</div>
-  </div>
-</div>
+## We invite two forms of submissions:
 
----
+1. **Research Track:** Submissions must be **at least 5 pages** (excluding references and supplementary material) presenting theoretical, methodological, technical, exploratory, or empirical work relevant to the themes of this workshop. These will be presented as short lightning talks during dedicated paper panels, followed by interactive discussion and Q&A.
+2. **Industry Track:** Submissions must be **at least 5 pages** (excluding references and supplementary material) describing deployed NLP solutions, case studies of real-world implementations, or practical challenges and lessons learned from developing and deploying language technologies for African languages in industry settings.
 
-## Call for Submissions
+Submissions must strictly adhere to the **[LaTeX style guide and template](https://www.overleaf.com/latex/templates/jmlr-template/zqvxjzpbgxvb)**. Submissions that do not conform to this template will be **automatically disqualified without review**.
 
-We invite original research, deployment case studies, and innovative ideas addressing low-resource language technologies in African contexts. 
+**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=AfriLang_AI/2026/Conference) by 2nd October, 2026 AoE.**
 
-**Submission Tracks:**
-* **Research Track:** Papers presenting theoretical, methodological, or empirical work relevant to the themes. (Presented as lightning talks + interactive paper panels).
-* **Industry Track:** Papers detailing real-world implementations, deployed NLP systems, and lessons learned in production environments.
+> **Note:**  
+> According to OpenReview's moderation policy for newly created profiles in the Call for Papers:
+>
+> - New profiles **without an institutional email** will go through a moderation process that can take up to **two weeks**.
+> - New profiles **with an institutional email** will be **activated automatically**.
+>
+> Please keep this in mind when creating your OpenReview profile for submissions.
 
-Both tracks require submissions of **at least 5 pages** (excluding references/appendices) strictly formatted using the **[JMLR / PMLR LaTeX Template](https://www.overleaf.com/latex/templates/jmlr-template/zqvxjzpbgxvb)**.
+## Timelines
 
-<a href="https://openreview.net/group?id=AfriLang_AI/2026/Conference" class="btn-submit">Submit on OpenReview &rarr;</a>
+* **Deadline for submissions:** October 2nd, 2026 AoE
+* **Acceptance notification:** November 10th, 2026
+* **Workshop date:** December 10th, 2026
 
-<div class="notice-card">
-  <strong>OpenReview Moderation Note:</strong><br/>
-  New profiles created <em>without an institutional email</em> take up to <strong>two weeks</strong> for verification. Profiles using an institutional email are activated automatically. Please create your account well ahead of the October 2nd deadline.
-</div>
+## Venue
 
----
+**Makerere University**  
+8HM9+3C Kampala, Uganda.  
+[View on Google Maps](https://maps.app.goo.gl/nVvov2JioBrEGUHF8)
 
-## Workshop Topics
+## Workshop scope and topics
 
-* **Data Collection & Annotation:** Novel curation, augmentation, and crowdsourcing pipelines for low-resource African languages.
-* **Transfer Learning & Multilingual Models:** Cross-lingual techniques, adaptation from high-resource languages, and code-switching handling.
-* **Speech Technologies:** ASR, speech synthesis (TTS), speaker recognition, and accent adaptation across diverse dialects.
-* **Machine Translation (NMT):** Bridging African languages with regional and global languages.
-* **Ethics, Fairness & Bias:** Mitigating cultural, linguistic, and societal bias in African NLP systems.
-* **Real-World Societal Impact:** Deployments in healthcare, agriculture, education, and civic tech.
-* **Computational Linguistics:** Structural, phonological, syntactic, and morphological analysis.
-* **LLMs & Foundation Models:** In-context learning, fine-tuning, and domain adaptation for regional languages.
+Themes for submissions can include but are not limited to:
 
----
+1. **Data Collection and Annotation for Low-Resource African Languages:** Novel approaches to creating, augmenting, and curating datasets for machine translation, speech recognition, text-to-speech, and other NLP tasks in resource-scarce settings.
+2. **Cross-Lingual Transfer Learning and Multilingual Models:** Techniques for leveraging high-resource languages to improve performance on low-resource African languages, including pre-training, fine-tuning, and multilingual model architectures.
+3. **African Language Speech Technologies:** Advancements in automatic speech recognition (ASR), speech synthesis (TTS), and speaker recognition for diverse African languages and accents.
+4. **Machine Translation for African Languages:** Innovations in neural machine translation (NMT) and other approaches to bridge the communication gap between African languages and global languages.
+5. **Ethical Considerations and Bias in African Language Technologies:** Discussions on fairness, accountability, transparency, and the potential for bias in NLP models applied to African linguistic and cultural contexts.
+6. **Applications of NLP for Societal Impact in Africa:** Real-world deployments of NLP solutions in areas such as education, healthcare, agriculture, financial inclusion, and cultural preservation.
+7. **Computational Linguistics of African Languages:** Linguistic analysis, phonology, morphology, syntax, and semantics of African languages relevant to NLP model development.
+8. **Tools and Resources for African Language NLP:** Development of open-source libraries, frameworks, evaluation benchmarks, and other resources to facilitate research and development.
+9. **Multilingual LLMs for Enhanced Language Comprehension and Task Flexibility:** Research and development into leveraging large-scale pre-trained models (LLMs) for African languages, including improving contextual understanding, zero-shot and few-shot learning, and multilingual capabilities and code-switching.
+
+## Reviewing
+
+Papers will be peer reviewed by at least 3 Programme Committee members and selected for:
+
+* Disciplinary depth
+* Novelty of perspectives
+* Ability to foster cross-disciplinary dialog
+* Relevance to low-resource African language technology
+* Potential for impact and community building
 
 ## Publication
 
-Accepted papers will appear in the official conference proceedings published via **[PMLR](https://proceedings.mlr.press/)** and hosted on the conference website. 
+Accepted submissions will be published online in **[PMLR](https://proceedings.mlr.press/)** and shared on the workshop website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q&A and discussion sessions. Accepted papers will be asked to be revised to at least 5 pages for publication.
 
-*(Review the previous edition via **[PMLR Volume 314](https://proceedings.mlr.press/v314/)**).*
+_Proceedings from our 2025 edition are available in **[PMLR Volume 314](https://proceedings.mlr.press/v314/)**._
 
 ---
 
@@ -306,45 +245,51 @@ Accepted papers will appear in the official conference proceedings published via
 
 ### General Chair
 
-<div class="profile-grid">
-  <div class="chair-card">
-    <img src="assets/images/em.jpg" alt="Dr. Ernest Mwebaze" />
-    <div class="chair-info">
-      <strong>Dr. Ernest Mwebaze</strong><br/>
-      <em>Executive Director, Sunbird AI</em>
-      <p>Dr. Ernest Mwebaze is the Executive Director of Sunbird AI. He previously worked as a research scientist at Google AI in Ghana and UN Global Pulse, and co-founded the Makerere AI Lab. He holds a PhD from the University of Groningen.</p>
-    </div>
+<div class="chair-card">
+  <img src="assets/images/em.jpg" alt="Dr. Ernest Mwebaze" />
+  <div>
+    <strong>Dr. Ernest Mwebaze</strong><br/>
+    <em>Executive Director, Sunbird AI</em><br/><br/>
+    Dr. Ernest Mwebaze is the Executive Director of Sunbird AI, a non-profit that develops practical AI research and products for social impact with a focus on Africa. He has over a decade of experience teaching and researching at Makerere University, where he co-founded its Artificial Intelligence Lab. He has worked as a research scientist at Google AI in Ghana and at the UN Pulse Lab in Kampala, applying AI to tackle development challenges in agriculture, utilities, the SDGs, and African language technologies. He holds a PhD in Machine Learning from the University of Groningen, The Netherlands.
   </div>
 </div>
 
 ### Program Committee Chairs
 
-<div class="profile-grid">
-  <div class="chair-card">
-    <img src="assets/images/johnqunin.jpg" alt="Dr. John Quinn" />
-    <div class="chair-info">
-      <strong>Dr. John Quinn</strong><br/>
-      <em>Director of Research, Sunbird AI</em>
-      <p>Dr. John Quinn is the Director of Research at Sunbird AI. He was previously a Staff Research Software Engineer at Google (leading the Open Buildings project) and Technical Lead at UN Global Pulse. He holds a PhD from the University of Edinburgh.</p>
-    </div>
-  </div>
-
-  <div class="chair-card">
-    <img src="assets/images/eb.jpeg" alt="Prof. Engineer Bainomugisha" />
-    <div class="chair-info">
-      <strong>Prof. Engineer Bainomugisha</strong><br/>
-      <em>Professor & Chair of Computer Science, Makerere University</em>
-      <p>Prof. Engineer Bainomugisha is Chair of Computer Science at Makerere University and founder of AirQo. He serves on the board of Sunbird AI and holds a PhD from Vrije Universiteit Brussel.</p>
-    </div>
+<div class="profile">
+  <img src="assets/images/johnqunin.jpg" alt="Dr. John Quinn" />
+  <div>
+    <strong>Dr. John Quinn</strong><br/>
+    <em>Director, Sunbird AI</em><br/><br/>
+    John Quinn is the Director of Research at Sunbird AI in Uganda. He has previously been a Staff Research Software Engineer at Google, where he started the Open Buildings project to map three continents using satellite imagery and computer vision, was technical lead for Africa projects at United Nations Global Pulse, and Senior Lecturer in Computer Science at Makerere University in Uganda. He has worked on a number of large scale AI projects across the African continent, in the fields of remote sensing, speech and language, agriculture and health. He holds a BA in computer science from the University of Cambridge (2000), and a PhD in machine learning from the University of Edinburgh (2007).
   </div>
 </div>
 
-### Program Committee Members
+<div class="chair-card">
+  <img src="assets/images/eb.jpeg" alt="Prof. Engineer Bainomugisha" />
+  <div>
+    <strong>Prof. Engineer Bainomugisha</strong><br/>
+    <em>Professor & Chair, Department of Computer Science, Makerere University</em><br/><br/>
+    Prof. Engineer Bainomugisha is a Professor and the Chair of Computer Science at Makerere University, Uganda. His research interests span programming language engineering, distributed and cloud systems, low-cost sensor technologies and applications of AI for social impact. His pioneering work includes AirQo, Africa's largest air quality monitoring and modelling system. He serves as a founding board member of Sunbird AI, championing AI for public good. He holds a PhD in Computer Science from Vrije Universiteit Brussel, Belgium.
+  </div>
+</div>
+
+### Program Committee
 
 <div class="committee">
-  <div class="committee-member"><strong>Prof. Engineer Bainomugisha</strong><br><small>Makerere University</small></div>
-  <div class="committee-member"><strong>Dr. Ernest Mwebaze</strong><br><small>Sunbird AI</small></div>
-  <div class="committee-member"><strong>Dr. John Quinn</strong><br><small>Sunbird AI</small></div>
-  <div class="committee-member"><strong>Joel Tibabwetiza Muhanguzi</strong><br><small>Sunbird AI</small></div>
-  <div class="committee-member"><strong>Janat Namara</strong><br><small>Sunbird AI</small></div>
+  <div class="committee-member">
+    <strong>Engineer Bainomugisha</strong>, Makerere University, Uganda
+  </div>
+  <div class="committee-member">
+    <strong>Ernest Mwebaze</strong>, Sunbird AI, Uganda
+  </div>
+  <div class="committee-member">
+    <strong>John Quinn</strong>, Sunbird AI, Uganda
+  </div>
+  <div class="committee-member">
+    <strong>Joel Tibabwetiza Muhanguzi</strong>, Sunbird AI, Uganda
+  </div>
+  <div class="committee-member">
+    <strong>Janat Namara</strong>, Sunbird AI, Uganda
+  </div>
 </div>
