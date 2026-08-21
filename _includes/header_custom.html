@@ -51,20 +51,27 @@
     position: sticky;
     top: 0;
     z-index: 1000;
+    width: 100%;
     background: var(--nav-bg);
     border-bottom: 1px solid var(--nav-border);
     box-shadow: 0 2px 10px rgba(63, 43, 86, 0.06);
-    padding: 10px 0;
+    padding: 12px 0;
   }
 
+  /* Full-width container across the screen */
   .site-nav-container {
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 0 20px;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    padding: 0 40px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 15px;
+    gap: 20px;
+  }
+
+  .site-logo {
+    flex-shrink: 0;
   }
 
   .site-logo-link {
@@ -75,7 +82,7 @@
   }
 
   .site-logo-img {
-    height: 42px;
+    height: 44px;
     width: auto;
     border-radius: 6px;
   }
@@ -86,27 +93,31 @@
   }
 
   .site-logo-title {
-    font-size: 1.2rem;
+    font-size: 1.25rem;
     font-weight: 800;
     color: var(--nav-primary);
     line-height: 1.2;
+    white-space: nowrap;
   }
 
   .site-logo-subtitle {
-    font-size: 0.75rem;
+    font-size: 0.8rem;
     color: #6E6259;
     line-height: 1.2;
+    white-space: nowrap;
   }
 
   .site-nav-center {
     display: flex;
     align-items: center;
+    margin-left: auto;
+    margin-right: 30px;
   }
 
   .site-nav-list {
     list-style: none;
     display: flex;
-    gap: 20px;
+    gap: 28px;
     margin: 0;
     padding: 0;
   }
@@ -116,6 +127,7 @@
     color: var(--nav-primary);
     font-weight: 600;
     font-size: 0.95rem;
+    white-space: nowrap;
     transition: color 0.2s ease;
   }
 
@@ -127,15 +139,20 @@
     color: #7A6F68;
   }
 
+  .site-nav-actions {
+    flex-shrink: 0;
+  }
+
   .btn-nav-register {
     display: inline-block;
     background: var(--nav-primary);
     color: #FFFFFF !important;
     font-weight: 700;
     font-size: 0.9rem;
-    padding: 8px 20px;
+    padding: 8px 22px;
     border-radius: 20px;
     text-decoration: none;
+    white-space: nowrap;
     transition: background 0.2s ease, transform 0.15s ease;
   }
 
@@ -144,18 +161,20 @@
     transform: translateY(-1px);
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 900px) {
     .site-nav-container {
+      padding: 0 16px;
       flex-wrap: wrap;
       justify-content: center;
-      text-align: center;
+    }
+    .site-nav-center {
+      margin: 10px auto;
     }
     .site-logo-subtitle {
       display: none;
     }
     .site-nav-list {
-      gap: 12px;
-      margin: 8px 0;
+      gap: 16px;
     }
   }
 </style>
