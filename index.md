@@ -392,19 +392,19 @@ _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})
 
 <div class="committee">
   <div class="committee-member">
-    <strong>Engineer Bainomugisha</strong>, Makerere University, Uganda
+    <strong>Prof. Engineer Bainomugisha</strong>, Makerere University, Uganda
   </div>
   <div class="committee-member">
-    <strong>Ernest Mwebaze</strong>, Sunbird AI, Uganda
+    <strong>Dr. Ernest Mwebaze (PhD)</strong>, Sunbird AI, Uganda
   </div>
   <div class="committee-member">
-    <strong>John Quinn</strong>, Sunbird AI, Uganda
+    <strong>Dr. John Quinn (PhD)</strong>, Sunbird AI, Uganda
   </div>
   <div class="committee-member">
-    <strong>Joel Tibabwetiza Muhanguzi</strong>, Sunbird AI, Uganda
+    <strong>Mr. Joel Tibabwetiza Muhanguzi</strong>, Sunbird AI, Uganda
   </div>
   <div class="committee-member">
-    <strong>Janat Namara</strong>, Sunbird AI, Uganda
+    <strong>Ms. Janat Nimpamya Namara</strong>, Sunbird AI, Uganda
   </div>
 </div>
 
