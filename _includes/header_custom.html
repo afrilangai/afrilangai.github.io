@@ -1,180 +1,67 @@
-<!-- Site Navigation Header -->
+<link rel="stylesheet" href="{{ '/assets/navbar.css' | relative_url }}">
+
 <nav class="site-nav">
-  <div class="site-nav-container">
-    
-    <!-- Logo & Title -->
-    <div class="site-logo">
-      <a href="{{ '/' | relative_url }}" class="site-logo-link">
-        <img src="{{ '/assets/images/uglanglogo.jpeg' | relative_url }}" alt="AfriLang Logo" class="site-logo-img" />
-        <div class="site-logo-text">
-          <span class="site-logo-title">AfriLang AI 2026</span>
-          <span class="site-logo-subtitle">Bridging Low-Resource Gaps in African Languages</span>
-        </div>
+  <div class="site-logo">
+    <div class="site-logo-row">
+      <a href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/images/uglanglogo.jpeg' | relative_url }}" alt="Site Logo" />
       </a>
+      <span class="site-logo-title">AfriLang AI 2026</span>
     </div>
+    <span class="site-logo-subtitle">Bridging Low-Resource Gaps in African Languages</span>
+  </div>
 
-    <!-- Navigation Links -->
-    <div class="site-nav-center">
-      <ul class="site-nav-list">
-        <li><a href="{{ '/#call-for-submissions' | relative_url }}" class="site-nav-link">Call for Papers</a></li>
-        <li><a href="{{ '/#timelines' | relative_url }}" class="site-nav-link">Dates</a></li>
-        <li><a href="{{ '/#organizing-committee' | relative_url }}" class="site-nav-link">Committee</a></li>
-        <!-- Pointer to 2025 Edition / Proceedings -->
-        <li><a href="https://proceedings.mlr.press/v314/" target="_blank" rel="noopener noreferrer" class="site-nav-link archive-link">2025 Edition &nearr;</a></li>
-      </ul>
-    </div>
+  <div class="site-nav-center">
+    <ul class="site-nav-list">
+      <li><a href="{{ '/#call-for-submissions' | relative_url }}" class="site-nav-link">Call for Papers</a></li>
+      <li><a href="{{ '/#timelines' | relative_url }}" class="site-nav-link">Dates</a></li>
+      <li><a href="{{ '/#organizing-committee' | relative_url }}" class="site-nav-link">Committee</a></li>
+      <li><a href="https://proceedings.mlr.press/v314/" target="_blank" rel="noopener noreferrer" class="site-nav-link">2025 Edition &nearr;</a></li>
+    </ul>
+  </div>
 
-    <!-- CTA Actions -->
-    <div class="site-nav-actions">
-      <a href="https://forms.gle/P7fdYqJ4tZQJnq5F8"
-         class="btn-nav-register"
-         target="_blank" 
-         rel="noopener noreferrer">
-        Register
-      </a>
-    </div>
-
+  <div class="site-nav-actions">
+    <a href="https://forms.gle/P7fdYqJ4tZQJnq5F8"
+       class="btn btn-primary fs-5 mb-4 mb-md-0"
+       target="_blank" 
+       rel="noopener noreferrer">
+      Register
+    </a>
   </div>
 </nav>
 <div class="navbar-spacer"></div>
 
 <style>
-  :root {
-    --nav-bg: #FFFFFF;
-    --nav-primary: #3F2B56;
-    --nav-accent: #F2A900;
-    --nav-orange: #E65100;
-    --nav-border: #EADFD7;
-  }
-
-  .site-nav {
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-    width: 100%;
-    background: var(--nav-bg);
-    border-bottom: 1px solid var(--nav-border);
-    box-shadow: 0 2px 10px rgba(63, 43, 86, 0.06);
-    padding: 12px 0;
-  }
-
-  /* Full-width container across the screen */
-  .site-nav-container {
-    width: 100%;
-    max-width: 100%;
-    box-sizing: border-box;
-    padding: 0 40px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 20px;
-  }
-
-  .site-logo {
-    flex-shrink: 0;
-  }
-
-  .site-logo-link {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    text-decoration: none;
-  }
-
-  .site-logo-img {
-    height: 44px;
-    width: auto;
-    border-radius: 6px;
-  }
-
-  .site-logo-text {
-    display: flex;
-    flex-direction: column;
-  }
-
+  /* Color theme integration */
   .site-logo-title {
-    font-size: 1.25rem;
+    color: #3F2B56 !important;
     font-weight: 800;
-    color: var(--nav-primary);
-    line-height: 1.2;
-    white-space: nowrap;
   }
 
   .site-logo-subtitle {
-    font-size: 0.8rem;
-    color: #6E6259;
-    line-height: 1.2;
-    white-space: nowrap;
-  }
-
-  .site-nav-center {
-    display: flex;
-    align-items: center;
-    margin-left: auto;
-    margin-right: 30px;
-  }
-
-  .site-nav-list {
-    list-style: none;
-    display: flex;
-    gap: 28px;
-    margin: 0;
-    padding: 0;
+    color: #6E6259 !important;
   }
 
   .site-nav-link {
-    text-decoration: none;
-    color: var(--nav-primary);
+    color: #3F2B56 !important;
     font-weight: 600;
-    font-size: 0.95rem;
-    white-space: nowrap;
     transition: color 0.2s ease;
   }
 
   .site-nav-link:hover {
-    color: var(--nav-orange);
+    color: #E65100 !important;
   }
 
-  .archive-link {
-    color: #7A6F68;
-  }
-
-  .site-nav-actions {
-    flex-shrink: 0;
-  }
-
-  .btn-nav-register {
-    display: inline-block;
-    background: var(--nav-primary);
+  .site-nav-actions .btn-primary {
+    background-color: #3F2B56 !important;
+    border-color: #3F2B56 !important;
     color: #FFFFFF !important;
-    font-weight: 700;
-    font-size: 0.9rem;
-    padding: 8px 22px;
-    border-radius: 20px;
-    text-decoration: none;
-    white-space: nowrap;
-    transition: background 0.2s ease, transform 0.15s ease;
+    font-weight: 600;
+    transition: all 0.2s ease;
   }
 
-  .btn-nav-register:hover {
-    background: var(--nav-orange);
-    transform: translateY(-1px);
-  }
-
-  @media (max-width: 900px) {
-    .site-nav-container {
-      padding: 0 16px;
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-    .site-nav-center {
-      margin: 10px auto;
-    }
-    .site-logo-subtitle {
-      display: none;
-    }
-    .site-nav-list {
-      gap: 16px;
-    }
+  .site-nav-actions .btn-primary:hover {
+    background-color: #E65100 !important;
+    border-color: #E65100 !important;
   }
 </style>
