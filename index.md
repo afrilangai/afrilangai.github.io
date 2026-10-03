@@ -311,7 +311,8 @@ Submissions must strictly adhere to the **[LaTeX style guide and template](https
 
 ## Timelines
 
-* **Deadline for submissions:** October 2nd, 2026 AoE
+* **Deadline for submissions:** Oct 2 2026 11:59PM UTC-0
+* **Extended Deadline for submissions:** Oct 18 2026 11:59PM UTC-0
 * **Acceptance notification:** November 10th, 2026
 * **Workshop date:** December 10th, 2026
 
