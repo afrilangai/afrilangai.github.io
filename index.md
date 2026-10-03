@@ -1,6 +1,6 @@
 ---
 layout: default
-last_modified_date: August 21st, 2026
+last_modified_date: October 3rd, 2026
 ---
 
 <style>
@@ -299,7 +299,7 @@ This workshop is meant to be inter-disciplinary, merging industry and research. 
 
 Submissions must strictly adhere to the **[LaTeX style guide and template](https://www.overleaf.com/latex/templates/jmlr-template/zqvxjzpbgxvb)**. Submissions that do not conform to this template will be **automatically disqualified without review**.
 
-**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=AfriLang_AI/2026/Conference) by Oct 18 2026 11:59PM UTC-0.**
+**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=AfriLang_AI/2026/Conference) by October 18 2026 11:59PM UTC-0.**
 
 > **Note:**  
 > According to OpenReview's moderation policy for newly created profiles in the Call for Papers:
@@ -311,8 +311,8 @@ Submissions must strictly adhere to the **[LaTeX style guide and template](https
 
 ## Timelines
 
-* **Deadline for submissions:** Oct 2 2026 11:59PM UTC-0
-* **Extended Deadline for submissions:** Oct 18 2026 11:59PM UTC-0
+* **Deadline for submissions:** October 2 2026 11:59PM UTC-0
+* **Extended Deadline for submissions:** October 18 2026 11:59PM UTC-0
 * **Acceptance notification:** November 10th, 2026
 * **Workshop date:** December 10th, 2026
 
