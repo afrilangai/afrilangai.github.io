@@ -418,6 +418,39 @@ _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})
   <div class="committee-member">
     <strong>Ms. Janat Nimpamya Namara</strong>, Sunbird AI, Uganda
   </div>
+  <div class="committee-member">
+    <strong>Dr. Happy Buzaaba</strong>, Princeton University, USA
+  </div>
+  <div class="committee-member">
+    <strong>Dr. Peter Nabende</strong>, Makerere University, Uganda
+  </div>
+  <div class="committee-member">
+    <strong>Dr. Dina Machuve</strong>, DevData Analytics, Tanzania
+  </div>
+  <div class="committee-member">
+    <strong>Prof. Zewdie Mossie Erukneh</strong>, Debre Markos University, Ethiopia
+  </div>
+  <div class="committee-member">
+    <strong>Dr. Richard Kimera</strong>, Mbarara University of Science and Technology, Uganda
+  </div>
+  <div class="committee-member">
+    <strong>Dr. Joyce Nakatumba Nabende</strong>, Makerere University, Uganda
+  </div>
+  <div class="committee-member">
+    <strong>Dr. Lilian D. Awuor Wanzare</strong>, Maseno University, Kenya
+  </div>
+  <div class="committee-member">
+    <strong>Prof. Ciira Wa Maina</strong>, Dedan Kimathi University of Technology, Kenya
+  </div>
+  <div class="committee-member">
+    <strong>Dr. Denish Azamuke</strong>, Makerere University, Uganda
+  </div>
+  <div class="committee-member">
+    <strong>Dr. Hope Mogale</strong>
+  </div>
+  <div class="committee-member">
+    <strong>Claytone Sikasote</strong>, University of Zambia, Zambia
+  </div>
 </div>
 
 ---
