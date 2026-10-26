@@ -446,7 +446,7 @@ _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})
     <strong>Dr. Denish Azamuke</strong>, Makerere University, Uganda
   </div>
   <div class="committee-member">
-    <strong>Dr. Hope Mogale</strong>, University of Pretoria, South Africa
+    <strong>Dr. Hope Tsholofelo Mogale</strong>, University of Pretoria, South Africa
   </div>
   <div class="committee-member">
     <strong>Claytone Sikasote</strong>, University of Zambia, Zambia
