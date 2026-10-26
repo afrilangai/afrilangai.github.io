@@ -460,6 +460,12 @@ _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})
   <div class="committee-member">
     <strong>Dr. Cornelius Kalenzi</strong>
   </div>
+  <div class="committee-member">
+    <strong>Lilian Muyama</strong>, Makerere University, Uganda
+  </div>
+  <div class="committee-member">
+    <strong>Tim Wenjie Hu</strong>, Sunbird AI, Uganda
+  </div>
 </div>
 
 ---
