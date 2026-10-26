@@ -451,6 +451,15 @@ _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})
   <div class="committee-member">
     <strong>Claytone Sikasote</strong>, University of Zambia, Zambia
   </div>
+  <div class="committee-member">
+    <strong>Benjamin Akera</strong>, Sunbird AI, Uganda
+  </div>
+  <div class="committee-member">
+    <strong>Mr. Hubert Kanyamahanga</strong>, Leibniz University Hannover, Germany
+  </div>
+  <div class="committee-member">
+    <strong>Dr. Cornelius Kalenzi</strong>
+  </div>
 </div>
 
 ---
