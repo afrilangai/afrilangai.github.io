@@ -446,7 +446,7 @@ _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})
     <strong>Dr. Denish Azamuke</strong>, Makerere University, Uganda
   </div>
   <div class="committee-member">
-    <strong>Dr. Hope Mogale</strong>
+    <strong>Dr. Hope Mogale</strong>, University of Pretoria, South Africa
   </div>
   <div class="committee-member">
     <strong>Claytone Sikasote</strong>, University of Zambia, Zambia
@@ -458,7 +458,7 @@ _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})
     <strong>Mr. Hubert Kanyamahanga</strong>, Leibniz University Hannover, Germany
   </div>
   <div class="committee-member">
-    <strong>Dr. Cornelius Kalenzi</strong>
+    <strong>Dr. Cornelius Kalenzi</strong>, Makerere University, Uganda
   </div>
   <div class="committee-member">
     <strong>Lilian Muyama</strong>, Makerere University, Uganda
