@@ -449,10 +449,10 @@ _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})
     <strong>Dr. Hope Tsholofelo Mogale</strong>, University of Pretoria, South Africa
   </div>
   <div class="committee-member">
-    <strong>Claytone Sikasote</strong>, University of Zambia, Zambia
+    <strong>Mr. Claytone Sikasote</strong>, University of Zambia, Zambia
   </div>
   <div class="committee-member">
-    <strong>Benjamin Akera</strong>, Sunbird AI, Uganda
+    <strong>Mr. Benjamin Akera</strong>, Sunbird AI, Uganda
   </div>
   <div class="committee-member">
     <strong>Mr. Hubert Kanyamahanga</strong>, Leibniz University Hannover, Germany
@@ -461,10 +461,10 @@ _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})
     <strong>Dr. Cornelius Kalenzi</strong>, Makerere University, Uganda
   </div>
   <div class="committee-member">
-    <strong>Lilian Muyama</strong>, Makerere University, Uganda
+    <strong>Dr. Lilian Muyama</strong>, Makerere University, Uganda
   </div>
   <div class="committee-member">
-    <strong>Tim Wenjie Hu</strong>, Sunbird AI, Uganda
+    <strong>Mr. Tim Wenjie Hu</strong>, Sunbird AI, Uganda
   </div>
 </div>
 
