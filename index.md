@@ -503,6 +503,23 @@ _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})
   </div>
 </div>
 
+## Our Sponsors
+
+<style>
+.sponsor-row { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 28px 48px; margin: 20px 0 8px; }
+.sponsor-row a { display: flex; align-items: center; justify-content: center; height: 80px; }
+.sponsor-row img { max-height: 80px; max-width: 220px; width: auto; height: auto; object-fit: contain; }
+.sponsor-row img.sponsor-wide { max-width: 360px; }
+@media (max-width: 620px) { .sponsor-row { gap: 20px 28px; } .sponsor-row a, .sponsor-row img { max-height: 56px; height: 56px; } .sponsor-row img, .sponsor-row img.sponsor-wide { max-width: 150px; } }
+</style>
+
+<div class="sponsor-row">
+  <a href="{{ '/sponsors' | relative_url }}"><img src="{{ '/assets/images/sponsors/sunbird.svg' | relative_url }}" alt="Sunbird AI"></a>
+  <a href="{{ '/sponsors' | relative_url }}"><img class="sponsor-wide" src="{{ '/assets/images/sponsors/mak-ai.png' | relative_url }}" alt="Mak-AI, Makerere University"></a>
+  <a href="{{ '/sponsors' | relative_url }}"><img src="{{ '/assets/images/sponsors/idrc.png' | relative_url }}" alt="IDRC / CRDI Canada"></a>
+  <a href="{{ '/sponsors' | relative_url }}"><img src="{{ '/assets/images/sponsors/grtd.jpg' | relative_url }}" alt="Global Research and Technology Development, funded by UK Government"></a>
+</div>
+
 <script>
   let currentSlide = 0;
   const slides = document.querySelectorAll('.slide');
