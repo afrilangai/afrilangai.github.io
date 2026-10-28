@@ -404,67 +404,67 @@ _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})
 
 <div class="committee">
   <div class="committee-member">
-    <strong>Prof. Engineer Bainomugisha</strong>, Makerere University, Uganda
+    <strong>Engineer Bainomugisha</strong>, Makerere University, Uganda
   </div>
   <div class="committee-member">
-    <strong>Dr. Ernest Mwebaze (PhD)</strong>, Sunbird AI, Uganda
+    <strong>Ernest Mwebaze</strong>, Sunbird AI, Uganda
   </div>
   <div class="committee-member">
-    <strong>Dr. John Quinn (PhD)</strong>, Sunbird AI, Uganda
+    <strong>John Quinn</strong>, Sunbird AI, Uganda
   </div>
   <div class="committee-member">
-    <strong>Mr. Joel Tibabwetiza Muhanguzi</strong>, Sunbird AI, Uganda
+    <strong>Joel Tibabwetiza Muhanguzi</strong>, Sunbird AI, Uganda
   </div>
   <div class="committee-member">
-    <strong>Ms. Janat Nimpamya Namara</strong>, Sunbird AI, Uganda
+    <strong>Janat Nimpamya Namara</strong>, Sunbird AI, Uganda
   </div>
   <div class="committee-member">
-    <strong>Dr. Happy Buzaaba</strong>, Princeton University, USA
+    <strong>Happy Buzaaba</strong>, Princeton University, USA
   </div>
   <div class="committee-member">
-    <strong>Dr. Peter Nabende</strong>, Makerere University, Uganda
+    <strong>Peter Nabende</strong>, Makerere University, Uganda
   </div>
   <div class="committee-member">
-    <strong>Dr. Dina Machuve</strong>, DevData Analytics, Tanzania
+    <strong>Dina Machuve</strong>, DevData Analytics, Tanzania
   </div>
   <div class="committee-member">
-    <strong>Prof. Zewdie Mossie Erukneh</strong>, Debre Markos University, Ethiopia
+    <strong>Zewdie Mossie Erukneh</strong>, Debre Markos University, Ethiopia
   </div>
   <div class="committee-member">
-    <strong>Dr. Richard Kimera</strong>, Mbarara University of Science and Technology, Uganda
+    <strong>Richard Kimera</strong>, Mbarara University of Science and Technology, Uganda
   </div>
   <div class="committee-member">
-    <strong>Dr. Joyce Nakatumba Nabende</strong>, Makerere University, Uganda
+    <strong>Joyce Nakatumba Nabende</strong>, Makerere University, Uganda
   </div>
   <div class="committee-member">
-    <strong>Dr. Lilian D. Awuor Wanzare</strong>, Maseno University, Kenya
+    <strong>Lilian D. Awuor Wanzare</strong>, Maseno University, Kenya
   </div>
   <div class="committee-member">
-    <strong>Prof. Ciira Wa Maina</strong>, Dedan Kimathi University of Technology, Kenya
+    <strong>Ciira Wa Maina</strong>, Dedan Kimathi University of Technology, Kenya
   </div>
   <div class="committee-member">
-    <strong>Dr. Denish Azamuke</strong>, Makerere University, Uganda
+    <strong>Denish Azamuke</strong>, Makerere University, Uganda
   </div>
   <div class="committee-member">
-    <strong>Dr. Hope Tsholofelo Mogale</strong>, University of Pretoria, South Africa
+    <strong>Hope Tsholofelo Mogale</strong>, University of Pretoria, South Africa
   </div>
   <div class="committee-member">
-    <strong>Mr. Claytone Sikasote</strong>, University of Zambia, Zambia
+    <strong>Claytone Sikasote</strong>, University of Zambia, Zambia
   </div>
   <div class="committee-member">
-    <strong>Mr. Benjamin Akera</strong>, Sunbird AI, Uganda
+    <strong>Benjamin Akera</strong>, Sunbird AI, Uganda
   </div>
   <div class="committee-member">
-    <strong>Mr. Hubert Kanyamahanga</strong>, Leibniz University Hannover, Germany
+    <strong>Hubert Kanyamahanga</strong>, Leibniz University Hannover, Germany
   </div>
   <div class="committee-member">
-    <strong>Dr. Cornelius Kalenzi</strong>, Makerere University, Uganda
+    <strong>Cornelius Kalenzi</strong>, Makerere University, Uganda
   </div>
   <div class="committee-member">
-    <strong>Dr. Lilian Muyama</strong>, Makerere University, Uganda
+    <strong>Lilian Muyama</strong>, Makerere University, Uganda
   </div>
   <div class="committee-member">
-    <strong>Mr. Tim Wenjie Hu</strong>, Sunbird AI, Uganda
+    <strong>Tim Wenjie Hu</strong>, Sunbird AI, Uganda
   </div>
 </div>
 
