@@ -284,17 +284,17 @@ last_modified_date: October 3rd, 2026
   <div class="hero-subtitle">Unlock the power of East African languages: Innovate, connect, and build inclusive language technology for tomorrow.</div>
 </div>
 
-The field of Natural Language Processing (NLP) has made remarkable strides, yet a significant disparity persists in the resources available for different languages. African languages, in particular, are largely underrepresented in NLP research and development, leading to a critical "low-resource" challenge. This workshop aims to address this gap by bringing together NLP researchers, practitioners, and companies from across Africa, with a strong focus on the vibrant East African region. Our goal is to foster collaboration, share cutting-edge research, and showcase practical applications of NLP for African languages, ultimately accelerating the development of robust and inclusive language technologies.
+The field of Natural Language Processing (NLP) has made remarkable strides, yet a significant disparity persists in the resources available for different languages. African languages, in particular, are largely underrepresented in NLP research and development, leading to a critical "low-resource" challenge. This conference aims to address this gap by bringing together NLP researchers, practitioners, and companies from across Africa, with a strong focus on the vibrant East African region. Our goal is to foster collaboration, share cutting-edge research, and showcase practical applications of NLP for African languages, ultimately accelerating the development of robust and inclusive language technologies.
 
 # Call for Submissions
 
 We are looking for submissions that present original research, practical deployments, and innovative ideas addressing the unique challenges and opportunities in low-resource language technology, specifically for African languages. We encourage contributions that explore theoretical advancements, methodological innovations, empirical studies, and real-world applications.
 
-This workshop is meant to be inter-disciplinary, merging industry and research. We believe that bridging the gap between academic exploration and industrial implementation is crucial for impactful progress in low-resource language technology. We encourage submissions that showcase collaborative efforts and demonstrate the potential for NLP to solve real-world problems in African contexts.
+This conference is meant to be inter-disciplinary, merging industry and research. We believe that bridging the gap between academic exploration and industrial implementation is crucial for impactful progress in low-resource language technology. We encourage submissions that showcase collaborative efforts and demonstrate the potential for NLP to solve real-world problems in African contexts.
 
 ## We invite two forms of submissions:
 
-1. **Research Track:** Submissions must be **at least 5 pages** (excluding references and supplementary material) presenting theoretical, methodological, technical, exploratory, or empirical work relevant to the themes of this workshop. These will be presented as short lightning talks during dedicated paper panels, followed by interactive discussion and Q&A.
+1. **Research Track:** Submissions must be **at least 5 pages** (excluding references and supplementary material) presenting theoretical, methodological, technical, exploratory, or empirical work relevant to the themes of this conference. These will be presented as short lightning talks during dedicated paper panels, followed by interactive discussion and Q&A.
 2. **Industry Track:** Submissions must be **at least 5 pages** (excluding references and supplementary material) describing deployed NLP solutions, case studies of real-world implementations, or practical challenges and lessons learned from developing and deploying language technologies for African languages in industry settings.
 
 Submissions must strictly adhere to the **[LaTeX style guide and template](https://www.overleaf.com/latex/templates/jmlr-template/zqvxjzpbgxvb)**. Submissions that do not conform to this template will be **automatically disqualified without review**.
@@ -314,7 +314,7 @@ Submissions must strictly adhere to the **[LaTeX style guide and template](https
 * **Deadline for submissions:** October 2th, 2026 11:59PM UTC-0
 * **Extended Deadline for submissions:** October 18th, 2026 11:59PM UTC-0
 * **Acceptance notification:** November 10th, 2026
-* **Workshop date:** December 10th, 2026
+* **Conference date:** December 10th, 2026
 
 ## Venue
 
@@ -322,7 +322,7 @@ Submissions must strictly adhere to the **[LaTeX style guide and template](https
 8HM9+3C Kampala, Uganda.  
 [View on Google Maps](https://maps.app.goo.gl/nVvov2JioBrEGUHF8)
 
-## Workshop scope and topics
+## Conference scope and topics
 
 Themes for submissions can include but are not limited to:
 
@@ -348,7 +348,7 @@ Papers will be peer reviewed by at least 3 Programme Committee members and selec
 
 ## Publication
 
-Accepted submissions will be published online in **[PMLR](https://proceedings.mlr.press/)** and shared on the workshop website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q&A and discussion sessions. Accepted papers will be asked to be revised to at least 5 pages for publication.
+Accepted submissions will be published online in **[PMLR](https://proceedings.mlr.press/)** and shared on the conference website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q&A and discussion sessions. Accepted papers will be asked to be revised to at least 5 pages for publication.
 
 _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})** or view the published papers in **[PMLR Volume 314](https://proceedings.mlr.press/v314/)**._
 
@@ -486,7 +486,7 @@ _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})
       <div class="slide-caption">Research track lightning talks and paper sessions</div>
     </div>
     <div class="slide">
-      <img src="{{ '/assets/images/gallery/photo3.jpg' | relative_url }}" alt="Workshop Panel" />
+      <img src="{{ '/assets/images/gallery/photo3.jpg' | relative_url }}" alt="Conference Panel" />
       <div class="slide-caption">Interactive industry and academic panel discussions</div>
     </div>
     <div class="slide">
