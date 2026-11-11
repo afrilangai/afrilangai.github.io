@@ -488,7 +488,10 @@ _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})
     <strong>Solomon Nsumba</strong>, Makerere University, Uganda
   </div>
   <div class="committee-member">
-    <strong>Isah (Charles) Saidu</strong>, Nigeria
+    <strong>Isah (Charles) Saidu</strong>, Baze University, Nigeria
+  </div>
+  <div class="committee-member">
+    <strong>Moayad Elamin</strong>, Trust Stamp, Rwanda
   </div>
 </div>
 
