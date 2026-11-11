@@ -466,6 +466,30 @@ _Explore the **[AfriLang 2025 Conference Archive]({{ '/2025/' | relative_url }})
   <div class="committee-member">
     <strong>Tim Wenjie Hu</strong>, Sunbird AI, Uganda
   </div>
+  <div class="committee-member">
+    <strong>Victor Odumuyiwa</strong>, University of Lagos, Nigeria
+  </div>
+  <div class="committee-member">
+    <strong>Tajuddeen Gwadabe</strong>, University of Chinese Academy of Sciences, China
+  </div>
+  <div class="committee-member">
+    <strong>Samuel Rutunda</strong>, Digital Umuganda, Rwanda
+  </div>
+  <div class="committee-member">
+    <strong>Kleber Kabanda</strong>, Digital Umuganda, Rwanda
+  </div>
+  <div class="committee-member">
+    <strong>Rose Nakasi</strong>, Makerere University, Uganda
+  </div>
+  <div class="committee-member">
+    <strong>Godliver Owomugisha</strong>, Busitema University, Uganda
+  </div>
+  <div class="committee-member">
+    <strong>Solomon Nsumba</strong>, Makerere University, Uganda
+  </div>
+  <div class="committee-member">
+    <strong>Isah (Charles) Saidu</strong>, Nigeria
+  </div>
 </div>
 
 ---
