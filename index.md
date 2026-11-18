@@ -320,11 +320,9 @@ Submissions must strictly adhere to the **[LaTeX style guide and template](https
 * **Camera-ready deadline:** December 3rd, 2026 (via the OpenReview system)
 * **Conference date:** December 10th, 2026
 
-## Venue
+## Format
 
-**Makerere University**  
-8HM9+3C Kampala, Uganda.  
-[View on Google Maps](https://maps.app.goo.gl/nVvov2JioBrEGUHF8)
+The conference will take place **fully online**, hosted by Makerere University, Kampala, Uganda. There is no physical venue. Registered participants will receive joining details by email.
 
 ## Conference scope and topics
 
