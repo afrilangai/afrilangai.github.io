@@ -313,7 +313,7 @@ Submissions must strictly adhere to the **[LaTeX style guide and template](https
 
 ## Timelines
 
-* **Deadline for submissions:** October 2th, 2026 11:59PM UTC-0
+* **Deadline for submissions:** October 2nd, 2026 11:59PM UTC-0
 * **Extended Deadline for submissions:** October 18th, 2026 11:59PM UTC-0
 * **Acceptance notifications:** Commence on November 10th, 2026
 * **Registration deadline:** November 30th, 2026
@@ -356,7 +356,7 @@ Accepted submissions will be published online in **[PMLR](https://proceedings.ml
 
 * **Camera-ready deadline:** December 3rd, 2026, submitted via OpenReview. Please incorporate the reviewers' suggestions. The author list and title cannot be changed without approval from the program committee.
 * **Format:** Camera-ready versions must strictly follow the [LaTeX style guide and template](https://www.overleaf.com/latex/templates/jmlr-template/zqvxjzpbgxvb). Add this to the footer: *Proceedings of "2026 AI for African Languages Conference. PMLR 2026."*
-* **Length:** We encourage 5–10 pages, plus up to 2 pages of references.
+* **Length:** We encourage papers of around 10 pages, plus up to 2 pages of references. There is no strict maximum page limit for this edition of the conference, so longer papers are acceptable.
 * **Registration:** Each accepted paper must be presented at the conference, and at least one author must register by **November 30th, 2026**, giving the paper ID on the registration form.
 * **Presentation:** Each paper is allocated 10 minutes in total, including the presentation and questions.
 * **AI use:** Papers must follow the [IEEE guidelines on AI-generated text](https://open.ieee.org/author-guidelines-for-artificial-intelligence-ai-generated-text/).
