@@ -299,6 +299,8 @@ This conference is meant to be inter-disciplinary, merging industry and research
 
 Submissions must strictly adhere to the **[LaTeX style guide and template](https://www.overleaf.com/latex/templates/jmlr-template/zqvxjzpbgxvb)**. Submissions that do not conform to this template will be **automatically disqualified without review**.
 
+**AI policy:** The use of AI-generated text in submissions must follow the [IEEE author guidelines for artificial intelligence (AI)-generated text](https://open.ieee.org/author-guidelines-for-artificial-intelligence-ai-generated-text/).
+
 **You can submit for both tracks using [OpenReview](https://openreview.net/group?id=AfriLang_AI/2026/Conference) by October 18th, 2026 11:59PM UTC-0.**
 
 > **Note:**  
@@ -314,6 +316,8 @@ Submissions must strictly adhere to the **[LaTeX style guide and template](https
 * **Deadline for submissions:** October 2th, 2026 11:59PM UTC-0
 * **Extended Deadline for submissions:** October 18th, 2026 11:59PM UTC-0
 * **Acceptance notification:** November 10th, 2026
+* **Registration deadline:** November 30th, 2026
+* **Camera-ready deadline:** December 3rd, 2026 (via the OpenReview system)
 * **Conference date:** December 10th, 2026
 
 ## Venue
