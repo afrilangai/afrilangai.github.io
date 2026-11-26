@@ -281,7 +281,7 @@ last_modified_date: October 3rd, 2026
 
 <div class="hero-banner">
   <div class="hero-title">AI for African languages conference 2026</div>
-  <div class="hero-subtitle">Unlock the power of East African languages: Innovate, connect, and build inclusive language technology for tomorrow.</div>
+  <div class="hero-subtitle">Unlock the power of African languages: Innovate, connect, and build inclusive language technology for tomorrow.</div>
 </div>
 
 The field of Natural Language Processing (NLP) has made remarkable strides, yet a significant disparity persists in the resources available for different languages. African languages, in particular, are largely underrepresented in NLP research and development, leading to a critical "low-resource" challenge. This conference aims to address this gap by bringing together NLP researchers, practitioners, and companies from across Africa, with a strong focus on the vibrant East African region. Our goal is to foster collaboration, share cutting-edge research, and showcase practical applications of NLP for African languages, ultimately accelerating the development of robust and inclusive language technologies.
